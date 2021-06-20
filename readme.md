@@ -52,9 +52,13 @@ Emoji Symbols used in this list
 
 ### Retroclones
 
+- [Basic Fantasy](https://www.basicfantasy.org/) - an D&D retroclone available for free
 - [Cepheus Engine](https://www.drivethrurpg.com/product/186894/Cepheus-Engine-System-Reference-Document) - a Traveller retroclone that has a SRD (linked) (OGL)
+- [Delving Deeper](http://ddo.immersiveink.com/dd.html) - another OD&D retroclone with an SRD (OGL)
 - [Four Color](https://www.drivethrurpg.com/product/50837/Four-Color-System-Core-Rules) - FASERIP retroclone (public domain)
 - [GLOG](https://goblinpunch.blogspot.com/2016/05/the-glog.html) - a small retroclone that spawned a lot of hacks (CC) 
+- [Fantastic Heroes & Witchery](http://www.dcrouzet.net/heroes-witchery/?page_id=83) - AD&D retroclone with somewhat goofy classes (OGL)
+- [OSE](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) - Old School Essentials SRD (OGL)
 - [OSRIC](http://www.knights-n-knaves.com/osric/) also available on DriveThru for free (OGL)
 - [ZeFRS](https://sites.google.com/site/zefrsrpg/) - a retroclone of TSR's Conan (the one using a Marvel-like lookup chart) (public domain)
 
