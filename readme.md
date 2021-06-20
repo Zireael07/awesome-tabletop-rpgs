@@ -23,16 +23,21 @@ Emoji Symbols used in this list
 ### Games
 
 - [1w6](https://www.1w6.org/english) - a system based on d6 (GPL)
+- [24xx](https://jasontocci.itch.io/24xx) - a small system that has spawned several hacks (CC)
+- [ACKS SRD](https://github.com/jhhoffmann/ACKS_SRD) Adventurer Conqueror King System SRD (OGL)
 - [Aurora Engine](https://lynxthoughts.com/aurora/) - a d6 dicepool system that uses half dice (public domain)
+- [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel) - has an online SRD (CC)
+- [d6 Pool](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest) - what it says on the tin (CC)
 - [Dominion Rules](http://www.dominionrules.org/) - Fantasy and historical based on d12
 - [Eclipse Phase](https://robboyle.wordpress.com/eclipse-phase-pdfs/) - a d100 sci-fi system (CC)
 - [FATE](https://www.faterpg.com/) - a rules-lite system that has spawned a ton of hacks (OGL or CC)
+- [FivexFive](https://www.drivethrurpg.com/browse/pub/5581/Dreams-and-Dragons) - a system where you roll two d5 and multiply the results
 - [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic
 - [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
 - [Fuzion](http://www.talsorian.com/software/fuzion.pdf)
-- [GURPS Lite](http://www.sjgames.com/gurps/lite/) - a free starter for GURPS
 - [Ironsworn](https://www.ironswornrpg.com/) - an awesome solo system (CC)
 - [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version)
+- [Jovian Despair](https://img.4plebs.org/boards/tg/image/1418/65/1418658840108.pdf) - an awesome d6 minisystem (CC)
 - [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) - a small system that spawned several hacks (CC)
 - [Microlite20](https://microlite20.org/) (OGL)
 - [Opend6](http://opend6project.org/) - SRD for a system that sums up a pool of d6s (OGL)
@@ -41,6 +46,7 @@ Emoji Symbols used in this list
 - [Ops and Tactics](https://opsandtactics.blogspot.com/) (CC)
 - [Stars without Number](https://www.drivethrurpg.com/product/86467/Stars-Without-Number-Original-Free-Edition) - has a Traveller feel. Has a paid version, too. 
 - [So1um](https://github.com/brunobord/so1um) Role Playing Game designed & written by Matt Jackson. Can be played solo.
+- [Tiny d10](https://tinyd10.com/downloads/) a small d10 system (CC)
 - [TriStat dX](https://www.drivethrurpg.com/product/368/TriStat-dX-Core-System-RolePlaying-Game)
 - [YAGS](https://www.notasnark.net/yags/index) Yet Another Game System (GNU)
 
@@ -51,6 +57,13 @@ Emoji Symbols used in this list
 - [GLOG](https://goblinpunch.blogspot.com/2016/05/the-glog.html) - a small retroclone that spawned a lot of hacks (CC) 
 - [OSRIC](http://www.knights-n-knaves.com/osric/) also available on DriveThru for free (OGL)
 - [ZeFRS](https://sites.google.com/site/zefrsrpg/) - a retroclone of TSR's Conan (the one using a Marvel-like lookup chart) (public domain)
+
+### Quickstarts
+
+Many systems that are otherwise paid have free quickstarts.
+
+- [Burning Wheel](https://www.drivethrurpg.com/product/98542/Burning-Wheel-Gold-Hub-and-Spokes)
+- [GURPS Lite](http://www.sjgames.com/gurps/lite/) - a free starter for GURPS
 
 ## Related Awesome Lists
 
