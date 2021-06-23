@@ -32,6 +32,7 @@ Emoji Symbols used in this list
 - [FATE](https://www.faterpg.com/) - a rules-lite system that has spawned a ton of hacks. Has an SRD (OGL or CC)
 - [FivexFive](https://www.drivethrurpg.com/browse/pub/5581/Dreams-and-Dragons) - a system where you roll two d5 and multiply the results
 - [Forge Engine Universal Roleplaying System](https://www.drivethrurpg.com/product/235070/Forge-Engine--Universal-RolePlaying-System) - an awesome universal system that uses various dice (CC)
+- [Freeform Universal](https://www.perilplanet.com/freeform-universal/) - the third big freeform system that has also spawned some derivatives. link to beta for v2 down the page, too (CC)
 - [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic
 - [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
 - [Fuzion](http://www.talsorian.com/software/fuzion.pdf)
@@ -64,11 +65,14 @@ Emoji Symbols used in this list
 - [Dark Dungeons](https://gurbintrollgames.wordpress.com/dark-dungeons/) - a Cyclopedia retroclone (OGL)
 - [Darker Dungeons](https://web.archive.org/web/20151227140257/http://www.gratisgames.webspace.virginmedia.com/extras.html) - (archived page) a mashup of the above with some Rolemaster-inspired stuff (OGL)
 - [For Gold & Glory](https://www.drivethrurpg.com/product/156530/For-Gold--Glory) - a retroclone of AD&D, available for free from several sources (OGL)
+- [Forerunner](https://drive.google.com/file/d/1BqXXlbX_W2yx3acyKT9SDvCo0hqjkffZ/view?usp=sharing) - a retroclone of 4e (OGL)
 - [Four Color](https://www.drivethrurpg.com/product/50837/Four-Color-System-Core-Rules) - FASERIP retroclone (public domain)
 - [GLOG](https://goblinpunch.blogspot.com/2016/05/the-glog.html) - a small retroclone that spawned a lot of hacks (CC) 
 - [GORE](https://www.drivethrurpg.com/product/28521/GORE) - a retroclone mashup under OGL, also has their own license which allows using their IP (OGL)
 - [Fantastic Heroes & Witchery](http://www.dcrouzet.net/heroes-witchery/?page_id=83) - AD&D retroclone with somewhat goofy classes (OGL)
 - [Hyperspace d6](https://docs.google.com/document/u/0/d/1bm4-mFdSDsFw9GqpcI540ctQGzobDciX00AYAhxQ_VI/mobilebasic) - a streamlining of the old SW d6 systems (CC)
+- [Legends of Emerald Republic](https://agonizing-crimson.itch.io/legends-of-the-emerald-republic-ashcan-edition) - effectively a retroclone of L5R - uses their own resolution system, a pool of d6 and d10 (CC)
+- [Orcus](https://github.com/Sanglorian/orcus) - 4e retroclone (OGL)
 - [Organic Rules Components (ORC)](https://vajraenterprises.com/new/?p=132) - a system that while not a retroclone looks and feels like many old-school systems (CC)
 - [OSE](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) - Old School Essentials SRD (OGL)
 - [OSRIC](http://www.knights-n-knaves.com/osric/) also available on DriveThru for free (OGL)
@@ -101,7 +105,7 @@ Many systems that are otherwise paid have free quickstarts.
 - [Iridium System](https://www.drivethrurpg.com/product_info.php?products_id=29076) - an awesome system that has a Core Reference (OGL)
 - [Runic SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_runic/index.html) - looks to be an SRD of a Runequest adaptation (OGL)
 - [D100II SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_d100ii/D100II_SRD_1.pdf) - another Runequest-like SRD (OGL)
-- [WaRP](http://www.atlas-games.com/pdf_storage/WaRPSystemPackage.zip) - OGL
+- [WaRP](http://www.atlas-games.com/pdf_storage/WaRPSystemPackage.zip) - the system used in Over the Edge (OGL)
 - [Year Zero Engine](http://frank-mitchell.com/rpg/year-zero-engine-ogl/) - an SRD for YZE (OGL)
 
 
