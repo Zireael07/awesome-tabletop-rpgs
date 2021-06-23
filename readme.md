@@ -25,6 +25,7 @@ Emoji Symbols used in this list
 - [1w6](https://www.1w6.org/english) - a system based on d6 (GPL)
 - [24xx](https://jasontocci.itch.io/24xx) - a small system that has spawned several hacks (CC)
 - [6d6](https://6d6rpg.com/reviews/) - an awesome d6 system. their wiki, unfortunately, seems to be down (CC)
+- [Adventurers!](https://www.drivethrurpg.com/product/120987/Adventurers-Revised-2Pages-Edition) - an awesome 2d6 system that is free but does NOT have a license specified - i.e. take a look but you can't really remix it
 - [Aurora Engine](https://lynxthoughts.com/aurora/) - a d6 dicepool system that uses half dice (public domain)
 - [d6 Pool](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest) - what it says on the tin (CC)
 - [Dominion Rules](http://www.dominionrules.org/) - Fantasy and historical based on d12
@@ -35,7 +36,7 @@ Emoji Symbols used in this list
 - [Freeform Universal](https://www.perilplanet.com/freeform-universal/) - the third big freeform system that has also spawned some derivatives. link to beta for v2 down the page, too (CC)
 - [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic
 - [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
-- [Fuzion](http://www.talsorian.com/software/fuzion.pdf)
+- [Fuzion](http://rtalsoriangames.com/wp-content/uploads/2013/01/fuzion1.pdf) - the system that evolved from the one CP 2020 was based on. warnings, it's pretty much an attempt to marry CP with Hero System that... didn't really work. If you want an OGL version, look at Action! below
 - [Ironsworn](https://www.ironswornrpg.com/) - an awesome solo system (CC)
 - [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version)
 - [Jovian Despair](https://img.4plebs.org/boards/tg/image/1418/65/1418658840108.pdf) - an awesome d6 minisystem (CC)
@@ -106,6 +107,7 @@ Many systems that are otherwise paid have free quickstarts.
 - [Runic SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_runic/index.html) - looks to be an SRD of a Runequest adaptation (OGL)
 - [D100II SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_d100ii/D100II_SRD_1.pdf) - another Runequest-like SRD (OGL)
 - [WaRP](http://www.atlas-games.com/pdf_storage/WaRPSystemPackage.zip) - the system used in Over the Edge (OGL)
+- [vsM Engine](https://www.dropbox.com/s/2bj4ysgrmen8csh/vsMEngine.zip?dl=0) - if you played vs Monsters, vs Outlaws or any other in the series, this is the basic SRD. all original sites are down so the link is to somebody's copy on Dropbox (OGL)
 - [Year Zero Engine](http://frank-mitchell.com/rpg/year-zero-engine-ogl/) - an SRD for YZE (OGL)
 
 
