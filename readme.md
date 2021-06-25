@@ -27,6 +27,7 @@ Emoji Symbols used in this list
 - [6d6](https://6d6rpg.com/reviews/) - an awesome d6 system. their wiki, unfortunately, seems to be down (CC)
 - [Adventurers!](https://www.drivethrurpg.com/product/120987/Adventurers-Revised-2Pages-Edition) - an awesome 2d6 system that is free but does NOT have a license specified - i.e. take a look but you can't really remix it
 - [Aurora Engine](https://lynxthoughts.com/aurora/) - a d6 dicepool system that uses half dice (public domain)
+- [Crypts and Castles](https://cozycabin.org/cc/) - an awesome simple 2d6 based game (CC)
 - [d6 Pool](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest) - what it says on the tin (CC)
 - [Dominion Rules](http://www.dominionrules.org/) - Fantasy and historical based on d12
 - [Eclipse Phase](https://robboyle.wordpress.com/eclipse-phase-pdfs/) - a d100 sci-fi system (CC)
@@ -40,6 +41,7 @@ Emoji Symbols used in this list
 - [Ironsworn](https://www.ironswornrpg.com/) - an awesome solo system (CC)
 - [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version)
 - [Jovian Despair](https://img.4plebs.org/boards/tg/image/1418/65/1418658840108.pdf) - an awesome d6 minisystem (CC)
+- [Knights of the Black Lily](http://www.knightsoftheblacklily.com/downloads/) - an awesome d100 system with degrees of success
 - [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) - a small system that spawned several hacks (CC)
 - [Microlite20](https://microlite20.org/) (OGL)
 - [Opend6](http://opend6project.org/) - SRD for a system that sums up a pool of d6s (OGL)
@@ -47,15 +49,19 @@ Emoji Symbols used in this list
 - [Open Core Roleplaying System](https://www.drivethrurpg.com/product/2727/Open-Core-Role-Playing-System-Classic) - an d20 system that allows swapping the d20 out for some other dice (OGL)
 - [Open Legend](https://openlegendrpg.com/) - a free system online
 - [Ops and Tactics](https://opsandtactics.blogspot.com/) - an awesome modern combat system (CC)
+- [Risus: The Anything RPG](https://www.risusrpg.com/rules) - an extremely simple d6 based system that spawned a number of home rules
 - [Stars without Number](https://www.drivethrurpg.com/product/86467/Stars-Without-Number-Original-Free-Edition) - has a Traveller feel. Has a paid version, too.
 - [Worlds without Number](https://www.drivethrurpg.com/product/348809) - vastly expanded compared to Stars.
 - [So1um](https://github.com/brunobord/so1um) Role Playing Game designed & written by Matt Jackson. Can be played solo.
+- [Talislanta](http://talislanta.com/talislanta-library) - an awesome d20 system that has nothing to do with "the world's most popular rpg" (CC)
 - [Ten Thousand Worlds](https://www.tenthousandworlds.org/) - an awesome system if you need a height/weight/speed logarithmic table (CC)
 - [The Simple Game System](http://tower.newcenturycomputers.net/tsgs.html) - an awesome simple system (it uses only d6) but surprisingly deep (CC)
 - [Tiny d10](https://tinyd10.com/downloads/) a small d10 system (CC)
 - [TriStat dX](https://www.drivethrurpg.com/product/368/TriStat-dX-Core-System-RolePlaying-Game) - a system that only uses three stats, AFAICT the author's current intention is for it to be freely distributable (GNU?)
 - [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice) - an awesome system that uses various kinds of dice (CC)
 - [YAGS](https://www.notasnark.net/yags/index) Yet Another Game System - a generic system (GNU)
+- [The Window](http://www.mimgames.com/window/rules/) - awesome minimalist reverse step die system
+- [x6](https://www.x6system.net/download/x6core2.pdf) - d6 based system (CC)
 
 ### Retroclones
 
@@ -77,14 +83,18 @@ Emoji Symbols used in this list
 - [Organic Rules Components (ORC)](https://vajraenterprises.com/new/?p=132) - a system that while not a retroclone looks and feels like many old-school systems (CC)
 - [OSE](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) - Old School Essentials SRD (OGL)
 - [OSRIC](http://www.knights-n-knaves.com/osric/) also available on DriveThru for free (OGL)
+- [Spellcraft & Swordplay](https://www.drivethrurpg.com/product/94115/Spellcraft--Swordplay-Basic-Game) - a retroclone of OD&D using only d6 (OGL)
+- [The Big Brown Book](https://app.box.com/s/3f919711f32fb357f55e) - another D&D retroclone using only d6, hosted on Box by Fossil Bank
 - [ZeFRS](https://sites.google.com/site/zefrsrpg/) - a retroclone of TSR's Conan (the one using a Marvel-like lookup chart) (public domain)
 
 ### Quickstarts
 
 Many systems that are otherwise paid have free quickstarts.
 
+- [Alternity](https://www.drivethrurpg.com/product/249531/Alternity-Science-Fiction-RPG-Demo-Pack) - a free demo of a new version of Alternity, an rpg with an interesting dice mechanic (roll d20 and add or substract a second die)
 - [Burning Wheel](https://www.drivethrurpg.com/product/98542/Burning-Wheel-Gold-Hub-and-Spokes)
 - [EABA Lite](https://www.btrc.net/images/stories/freedownloads/eaba/btr6101_sample.pdf) - a free version of EABA, an awesome generic system (the full system does have their own license allowing supplements)
+- [Elite Dangerous RPG](https://www.modiphius.net/products/elite-dangerous-rpg-the-worst-intentions-free-quickstart) - an awesome system based on Elite: Dangerous, the space game
 - [GURPS Lite](http://www.sjgames.com/gurps/lite/) - a free starter for GURPS
 - [HackMaster Basic](https://www.drivethrurpg.com/product/104757/HackMaster-Basic-free)
 - [Lex Arcana](https://www.drivethrurpg.com/product/253285/Lex-Arcana-RPG--QuickStarter) - an awesome system set in alternate history Rome with an interesting system that allows for linear, pyramid or bell curves
@@ -104,9 +114,11 @@ Many systems that are otherwise paid have free quickstarts.
 - [Fortune System](https://web.archive.org/web/20141014085941/http://www.funhavergames.com/fsrd/) - (archived page) a 2d6 system with wagers (CC)
 - [GUMSHOE](https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/) - the system powering d100 CoC (OGL)
 - [Iridium System](https://www.drivethrurpg.com/product_info.php?products_id=29076) - an awesome system that has a Core Reference (OGL)
+- [Mark of the Odd](https://drive.google.com/drive/folders/1C3PgdyvIFf0YdDl-cXpsM_Fr_Vivw5Yj) - an SRD for the core system behind Into the Odd (the system itself also has a free edition)
 - [Runic SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_runic/index.html) - looks to be an SRD of a Runequest adaptation (OGL)
 - [D100II SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_d100ii/D100II_SRD_1.pdf) - another Runequest-like SRD (OGL)
 - [WaRP](http://www.atlas-games.com/pdf_storage/WaRPSystemPackage.zip) - the system used in Over the Edge (OGL)
+- [WOIN](https://sites.google.com/site/woinrrd/home) - a dice pool based game where the size of the pool is determined by several factors; has optional rules converting to other resolution systems (OGL)
 - [vsM Engine](https://www.dropbox.com/s/2bj4ysgrmen8csh/vsMEngine.zip?dl=0) - if you played vs Monsters, vs Outlaws or any other in the series, this is the basic SRD. all original sites are down so the link is to somebody's copy on Dropbox (OGL)
 - [Year Zero Engine](http://frank-mitchell.com/rpg/year-zero-engine-ogl/) - an SRD for YZE (OGL)
 
@@ -127,6 +139,7 @@ Many systems that are otherwise paid have free quickstarts.
 - [John H. Kim's list](https://www.darkshire.net/~jhkim/rpg/freerpgs/)
 - [The Compendium of Free Tabletop Role Playing Games](https://sillyhatbooks.com/other-stuff/games/)
 - [Micro RPG catalog](https://github.com/brunobord/micro-rpg-catalog)
+- [D&D Retroclones](http://taxidermicowlbear.weebly.com/dd-retroclones.html)
 
 ## Contribute
 
