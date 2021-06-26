@@ -58,6 +58,7 @@ Emoji Symbols used in this list
 - [The Simple Game System](http://tower.newcenturycomputers.net/tsgs.html) - an awesome simple system (it uses only d6) but surprisingly deep (CC)
 - [Tiny d10](https://tinyd10.com/downloads/) a small d10 system (CC)
 - [TriStat dX](https://www.drivethrurpg.com/product/368/TriStat-dX-Core-System-RolePlaying-Game) - a system that only uses three stats, AFAICT the author's current intention is for it to be freely distributable (GNU?)
+- [Tunnel Goons](https://natetreme.itch.io/tunnelgoons) - a lightweight 2d6 game that has spawned some hacks (CC)
 - [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice) - an awesome system that uses various kinds of dice (CC)
 - [YAGS](https://www.notasnark.net/yags/index) Yet Another Game System - a generic system (GNU)
 - [The Window](http://www.mimgames.com/window/rules/) - awesome minimalist reverse step die system
@@ -93,13 +94,16 @@ Many systems that are otherwise paid have free quickstarts.
 
 - [Alternity](https://www.drivethrurpg.com/product/249531/Alternity-Science-Fiction-RPG-Demo-Pack) - a free demo of a new version of Alternity, an rpg with an interesting dice mechanic (roll d20 and add or substract a second die)
 - [Burning Wheel](https://www.drivethrurpg.com/product/98542/Burning-Wheel-Gold-Hub-and-Spokes)
+- [Dungeon Crawl Classics](https://goodman-games.com/store/product/dcc-rpg-quick-start-rules-intro-adventures-pdf/) - quickstart and intro adventure for an awesome system that uses a reverse step die system, with imaginary dice such as d3, d5 or d7 (OGL) (note: the quickstart on drivethru is paid)
 - [EABA Lite](https://www.btrc.net/images/stories/freedownloads/eaba/btr6101_sample.pdf) - a free version of EABA, an awesome generic system (the full system does have their own license allowing supplements)
+- [Electric Bastionland](https://www.drivethrurpg.com/product/294656/Electric-Bastionland-Free-Edition) - an awesome system, an evolution of Into the Odd
 - [Elite Dangerous RPG](https://www.modiphius.net/products/elite-dangerous-rpg-the-worst-intentions-free-quickstart) - an awesome system based on Elite: Dangerous, the space game
 - [GURPS Lite](http://www.sjgames.com/gurps/lite/) - a free starter for GURPS
 - [HackMaster Basic](https://www.drivethrurpg.com/product/104757/HackMaster-Basic-free)
 - [Lex Arcana](https://www.drivethrurpg.com/product/253285/Lex-Arcana-RPG--QuickStarter) - an awesome system set in alternate history Rome with an interesting system that allows for linear, pyramid or bell curves
 - [Mythic d6](https://kheperapublishing.files.wordpress.com/2018/06/mythicd6_khp034-quickstart.pdf) - a derivative of Opend6->Legend d6
 - [Pip System](https://www.drivethrurpg.com/product/217218/Pip-System-QuickStart) - another Opend6 derivative that went in a different direction
+- [Tunnels and Trolls](https://www.drivethrurpg.com/product/54407) - free version of one of the first roleplaying games, that can also be played solo
 
 ### System Reference Documents
 
@@ -121,6 +125,7 @@ Many systems that are otherwise paid have free quickstarts.
 - [WOIN](https://sites.google.com/site/woinrrd/home) - a dice pool based game where the size of the pool is determined by several factors; has optional rules converting to other resolution systems (OGL)
 - [vsM Engine](https://www.dropbox.com/s/2bj4ysgrmen8csh/vsMEngine.zip?dl=0) - if you played vs Monsters, vs Outlaws or any other in the series, this is the basic SRD. all original sites are down so the link is to somebody's copy on Dropbox (OGL)
 - [Year Zero Engine](http://frank-mitchell.com/rpg/year-zero-engine-ogl/) - an SRD for YZE (OGL)
+- [Troika!](https://melsonian-arts-council.itch.io/troika-numinous-edition) - scroll down past the download button to see the download link for the SRD 
 
 
 ### Card-based games
