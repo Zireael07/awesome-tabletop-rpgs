@@ -27,6 +27,8 @@ Emoji Symbols used in this list
 - [6d6](https://6d6rpg.com/reviews/) - an awesome d6 system. their wiki, unfortunately, seems to be down (CC)
 - [Adventurers!](https://www.drivethrurpg.com/product/120987/Adventurers-Revised-2Pages-Edition) - an awesome 2d6 system that is free but does NOT have a license specified - i.e. take a look but you can't really remix it
 - [Aurora Engine](https://lynxthoughts.com/aurora/) - a d6 dicepool system that uses half dice (public domain)
+- [Bivius](https://lostpangolin.files.wordpress.com/2016/10/bivius-solo-rpg1.pdf) - simple awesome solo game (CC)
+- [Commonsense](https://www.drivethrurpg.com/product/359829/Commonsense-A-RolePlaying-Game-System) - an awesome solo oracle, not to mention a list of all the simple ways to achieve weird dice (CC)
 - [Crypts and Castles](https://cozycabin.org/cc/) - an awesome simple 2d6 based game (CC)
 - [d6 Pool](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest) - what it says on the tin (CC)
 - [Dominion Rules](http://www.dominionrules.org/) - Fantasy and historical based on d12
@@ -43,7 +45,8 @@ Emoji Symbols used in this list
 - [Jovian Despair](https://img.4plebs.org/boards/tg/image/1418/65/1418658840108.pdf) - an awesome d6 minisystem (CC)
 - [Knights of the Black Lily](http://www.knightsoftheblacklily.com/downloads/) - an awesome d100 system with degrees of success
 - [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) - a small system that spawned several hacks (CC)
-- [Microlite20](https://microlite20.org/) (OGL)
+- [Microlite20](https://microlite20.org/) - d20 distilled down to the basics (OGL)
+- [null.hack](https://github.com/ghostctrl/null.hack) - awesome game based on Mothership RPG (Panic! Engine) - d100 based
 - [Opend6](http://opend6project.org/) - SRD for a system that sums up a pool of d6s (OGL)
 - [Open Adventure](https://github.com/openadventure/Open-Adventure) - an open system that uses a d6-d6 as core (CC)
 - [Open Core Roleplaying System](https://www.drivethrurpg.com/product/2727/Open-Core-Role-Playing-System-Classic) - an d20 system that allows swapping the d20 out for some other dice (OGL)
@@ -52,10 +55,12 @@ Emoji Symbols used in this list
 - [Risus: The Anything RPG](https://www.risusrpg.com/rules) - an extremely simple d6 based system that spawned a number of home rules
 - [Stars without Number](https://www.drivethrurpg.com/product/86467/Stars-Without-Number-Original-Free-Edition) - has a Traveller feel. Has a paid version, too.
 - [Worlds without Number](https://www.drivethrurpg.com/product/348809) - vastly expanded compared to Stars.
+- [Siren RPG](https://github.com/ElectricCoffee/SirenRPG) - an open source 3d6 system (CC)
 - [So1um](https://github.com/brunobord/so1um) Role Playing Game designed & written by Matt Jackson. Can be played solo.
 - [Talislanta](http://talislanta.com/talislanta-library) - an awesome d20 system that has nothing to do with "the world's most popular rpg" (CC)
 - [Ten Thousand Worlds](https://www.tenthousandworlds.org/) - an awesome system if you need a height/weight/speed logarithmic table (CC)
 - [The Simple Game System](http://tower.newcenturycomputers.net/tsgs.html) - an awesome simple system (it uses only d6) but surprisingly deep (CC)
+- [Tiny d6](https://www.tinyd6.com/what-is-tinyd6) - a small d6 system
 - [Tiny d10](https://tinyd10.com/downloads/) a small d10 system (CC)
 - [TriStat dX](https://www.drivethrurpg.com/product/368/TriStat-dX-Core-System-RolePlaying-Game) - a system that only uses three stats, AFAICT the author's current intention is for it to be freely distributable (GNU?)
 - [Tunnel Goons](https://natetreme.itch.io/tunnelgoons) - a lightweight 2d6 game that has spawned some hacks (CC)
@@ -116,9 +121,10 @@ Many systems that are otherwise paid have free quickstarts.
 - [D&D 5e](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf) - 5e also has an SRD, too! (OGL)
 - [Drama System](http://fossilbank.wikidot.com/local--files/source:chris-sakkas/DramaSystem%20SRD%20-%20Libre%20Edition.epub) - the system that powers Pelgrane Press Hillfolk (OGL or CC)
 - [Fortune System](https://web.archive.org/web/20141014085941/http://www.funhavergames.com/fsrd/) - (archived page) a 2d6 system with wagers (CC)
-- [GUMSHOE](https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/) - the system powering d100 CoC (OGL)
+- [GUMSHOE](https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/) - the system powering d100 Call of Cthulhu (OGL)
 - [Iridium System](https://www.drivethrurpg.com/product_info.php?products_id=29076) - an awesome system that has a Core Reference (OGL)
 - [Mark of the Odd](https://drive.google.com/drive/folders/1C3PgdyvIFf0YdDl-cXpsM_Fr_Vivw5Yj) - an SRD for the core system behind Into the Odd (the system itself also has a free edition)
+- [OpenQuest](https://questworlds.chaosium.com/) - SRD for a modern version of HeroQuest (a d20 system with "masteries") (OGL)
 - [Runic SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_runic/index.html) - looks to be an SRD of a Runequest adaptation (OGL)
 - [D100II SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_d100ii/D100II_SRD_1.pdf) - another Runequest-like SRD (OGL)
 - [WaRP](http://www.atlas-games.com/pdf_storage/WaRPSystemPackage.zip) - the system used in Over the Edge (OGL)
