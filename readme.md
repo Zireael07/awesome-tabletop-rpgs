@@ -40,6 +40,7 @@ Emoji Symbols used in this list
 - [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic
 - [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
 - [Fuzion](http://rtalsoriangames.com/wp-content/uploads/2013/01/fuzion1.pdf) - the system that evolved from the one CP 2020 was based on. warnings, it's pretty much an attempt to marry CP with Hero System that... didn't really work. If you want an OGL version, look at Action! below
+- [G.A.M.E](https://boardgamegeek.com/filepage/185188/gme-system-troy-m-costisick) - step dice system that uses separate dice from heritage, trade, stats (requires boardgamegeek login to download) (CC)
 - [Ironsworn](https://www.ironswornrpg.com/) - an awesome solo system (CC)
 - [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version)
 - [Jovian Despair](https://img.4plebs.org/boards/tg/image/1418/65/1418658840108.pdf) - an awesome d6 minisystem (CC)
@@ -85,6 +86,7 @@ Emoji Symbols used in this list
 - [Fantastic Heroes & Witchery](http://www.dcrouzet.net/heroes-witchery/?page_id=83) - AD&D retroclone with somewhat goofy classes (OGL)
 - [Hyperspace d6](https://docs.google.com/document/u/0/d/1bm4-mFdSDsFw9GqpcI540ctQGzobDciX00AYAhxQ_VI/mobilebasic) - a streamlining of the old SW d6 systems (CC)
 - [Legends of Emerald Republic](https://agonizing-crimson.itch.io/legends-of-the-emerald-republic-ashcan-edition) - effectively a retroclone of L5R - uses their own resolution system, a pool of d6 and d10 (CC)
+- [Lightmaster](https://www.drivethrurpg.com/product/279034/Lightmaster-Core-Rulebook) - a retroclone of Rolemaster (OGL)
 - [Orcus](https://github.com/Sanglorian/orcus) - 4e retroclone (OGL)
 - [Organic Rules Components (ORC)](https://vajraenterprises.com/new/?p=132) - a system that while not a retroclone looks and feels like many old-school systems (CC)
 - [OSE](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) - Old School Essentials SRD (OGL)
@@ -120,8 +122,9 @@ Many systems that are otherwise paid have free quickstarts.
 - [Pathfinder 1,2/Starfinder](http://aonsrd.com/) - a d20 derivative that has a lot of content available (OGL)
 - [D&D 5e](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf) - 5e also has an SRD, too! (OGL)
 - [Drama System](http://fossilbank.wikidot.com/local--files/source:chris-sakkas/DramaSystem%20SRD%20-%20Libre%20Edition.epub) - the system that powers Pelgrane Press Hillfolk (OGL or CC)
+- [Entropic Gaming System](https://www.drivethrurpg.com/product/287696/Entropic-Gaming-System-System-Reference-Document-EGS-20) - a step dice system which has separate dice for skills and attributes (OGL)
 - [Fortune System](https://web.archive.org/web/20141014085941/http://www.funhavergames.com/fsrd/) - (archived page) a 2d6 system with wagers (CC)
-- [GUMSHOE](https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/) - the system powering d100 Call of Cthulhu (OGL)
+- [GUMSHOE](https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/) - a system for running investigative scenarios from Pelgrane Press (CC or OGL)
 - [Iridium System](https://www.drivethrurpg.com/product_info.php?products_id=29076) - an awesome system that has a Core Reference (OGL)
 - [Mark of the Odd](https://drive.google.com/drive/folders/1C3PgdyvIFf0YdDl-cXpsM_Fr_Vivw5Yj) - an SRD for the core system behind Into the Odd (the system itself also has a free edition)
 - [OpenQuest](https://questworlds.chaosium.com/) - SRD for a modern version of HeroQuest (a d20 system with "masteries") (OGL)
