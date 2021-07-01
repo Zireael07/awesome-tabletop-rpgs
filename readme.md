@@ -48,6 +48,7 @@ Emoji Symbols used in this list
 - [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) - a small system that spawned several hacks (CC)
 - [Microlite20](https://microlite20.org/) - d20 distilled down to the basics (OGL)
 - [null.hack](https://github.com/ghostctrl/null.hack) - awesome game based on Mothership RPG (Panic! Engine) - d100 based
+- [One Roll Engine](http://www.1km1kt.net/rpg/one-roll-engine-toolkit/comment-page-1) - an awesome system that is based on a pool of d10 (or d6) and finding sets of matching dice (CC)
 - [Opend6](http://opend6project.org/) - SRD for a system that sums up a pool of d6s (OGL)
 - [Open Adventure](https://github.com/openadventure/Open-Adventure) - an open system that uses a d6-d6 as core (CC)
 - [Open Core Roleplaying System](https://www.drivethrurpg.com/product/2727/Open-Core-Role-Playing-System-Classic) - an d20 system that allows swapping the d20 out for some other dice (OGL)
@@ -139,6 +140,7 @@ Many systems that are otherwise paid have free quickstarts.
 
 ### Card-based games
 
+- [Capers](https://www.nerdburgergames.com/capers) - awesome game about superpowered gangsters in the 1920s, has an SRD (CC)
 - [Enchanted Realms](https://archive.org/details/enchanted-realms) - "free for anyone to take an use as they wish"
 
 ## Related Awesome Lists
@@ -154,6 +156,7 @@ Many systems that are otherwise paid have free quickstarts.
 - [The Compendium of Free Tabletop Role Playing Games](https://sillyhatbooks.com/other-stuff/games/)
 - [Micro RPG catalog](https://github.com/brunobord/micro-rpg-catalog)
 - [D&D Retroclones](http://taxidermicowlbear.weebly.com/dd-retroclones.html)
+- [Indie RPGs](http://www.flick.com/~cdr/rpg/links.html)
 
 ## Contribute
 
