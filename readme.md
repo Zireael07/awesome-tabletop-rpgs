@@ -102,6 +102,7 @@ Many systems that are otherwise paid have free quickstarts.
 
 - [Alternity](https://www.drivethrurpg.com/product/249531/Alternity-Science-Fiction-RPG-Demo-Pack) - a free demo of a new version of Alternity, an rpg with an interesting dice mechanic (roll d20 and add or substract a second die)
 - [Burning Wheel](https://www.drivethrurpg.com/product/98542/Burning-Wheel-Gold-Hub-and-Spokes)
+- [Coriolis](https://www.drivethrurpg.com/product/204702/Coriolis-The-Third-Horizon--Quickstart) - an awesome Arabian-themed space setting that runs on d6 dicepools
 - [Dungeon Crawl Classics](https://goodman-games.com/store/product/dcc-rpg-quick-start-rules-intro-adventures-pdf/) - quickstart and intro adventure for an awesome system that uses a reverse step die system, with imaginary dice such as d3, d5 or d7 (OGL) (note: the quickstart on drivethru is paid)
 - [EABA Lite](https://www.btrc.net/images/stories/freedownloads/eaba/btr6101_sample.pdf) - a free version of EABA, an awesome generic system (the full system does have their own license allowing supplements)
 - [Electric Bastionland](https://www.drivethrurpg.com/product/294656/Electric-Bastionland-Free-Edition) - an awesome system, an evolution of Into the Odd
@@ -111,6 +112,7 @@ Many systems that are otherwise paid have free quickstarts.
 - [Lex Arcana](https://www.drivethrurpg.com/product/253285/Lex-Arcana-RPG--QuickStarter) - an awesome system set in alternate history Rome with an interesting system that allows for linear, pyramid or bell curves
 - [Mistborn](https://www.drivethrurpg.com/product_info.php?products_id=95856) - based on a book series of the same name, a d6 dice pool based system where you attempt to match any dice showing less than 6
 - [Mythic d6](https://kheperapublishing.files.wordpress.com/2018/06/mythicd6_khp034-quickstart.pdf) - a derivative of Opend6->Legend d6
+- [Perstoria](https://www.drivethrurpg.com/product/363032/Perstoria-Free-Sample) - a 2d6 based system
 - [Pip System](https://www.drivethrurpg.com/product/217218/Pip-System-QuickStart) - another Opend6 derivative that went in a different direction
 - [Shadow of the Demon Lord](https://www.drivethrurpg.com/product/156576/Victims-of-the-Demon-Lord-Starter-Guide) - a d20 derivative that has some awesome ideas (e.g. boons and banes)
 - [Tunnels and Trolls](https://www.drivethrurpg.com/product/54407) - free version of one of the first roleplaying games, that can also be played solo
