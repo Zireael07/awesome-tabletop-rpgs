@@ -98,7 +98,7 @@ Emoji Symbols used in this list
 
 ### Quickstarts
 
-Many systems that are otherwise paid have free quickstarts.
+Many systems that are otherwise paid have free quickstarts. NOTE: unless explicitly indicated, those are NOT under open licenses! You can read and play them, but NOT use the content in your own ttrpg!
 
 - [Alternity](https://www.drivethrurpg.com/product/249531/Alternity-Science-Fiction-RPG-Demo-Pack) - a free demo of a new version of Alternity, an rpg with an interesting dice mechanic (roll d20 and add or substract a second die)
 - [Burning Wheel](https://www.drivethrurpg.com/product/98542/Burning-Wheel-Gold-Hub-and-Spokes)
@@ -124,7 +124,7 @@ Many systems that are otherwise paid have free quickstarts.
 - [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel) - has an online SRD (CC)
 - [d20/D&D 3.5](https://www.d20srd.org/) - "the world's best known Role-Playing Game" aka Dungeons and Dragons 3.5 (OGL)
 - [d20 Modern/Future/Arcana](http://www.d20resources.com/) - three more derivatives of d20 have been partially made available (OGL)
-- [Pathfinder 1,2/Starfinder](http://aonsrd.com/) - a d20 derivative that has a lot of content available (OGL)
+- [Pathfinder 1,2/Starfinder](http://aonsrd.com/) - a d20 derivative that has a lot of content available - not just the core rulebooks, but pretty much all 1st party content (OGL)
 - [D&D 5e](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf) - 5e also has an SRD, too! (OGL)
 - [Drama System](http://fossilbank.wikidot.com/local--files/source:chris-sakkas/DramaSystem%20SRD%20-%20Libre%20Edition.epub) - the system that powers Pelgrane Press Hillfolk (OGL or CC)
 - [Entropic Gaming System](https://www.drivethrurpg.com/product/287696/Entropic-Gaming-System-System-Reference-Document-EGS-20) - a step dice system which has separate dice for skills and attributes (OGL)
