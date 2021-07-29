@@ -61,7 +61,7 @@ Emoji Symbols used in this list
 - [So1um](https://github.com/brunobord/so1um) Role Playing Game designed & written by Matt Jackson. Can be played solo.
 - [Talislanta](http://talislanta.com/talislanta-library) - an awesome d20 system that has nothing to do with "the world's most popular rpg" (CC)
 - [Ten Thousand Worlds](https://www.tenthousandworlds.org/) - an awesome system if you need a height/weight/speed logarithmic table (CC)
-- [The Simple Game System](http://tower.newcenturycomputers.net/tsgs.html) - an awesome simple system (it uses only d6) but surprisingly deep (CC)
+- [The Simple Game System](https://tsgs.atomicunicycle.com) - an awesome simple system (it uses only d6) but surprisingly deep (CC)
 - [Tiny d6](https://www.tinyd6.com/what-is-tinyd6) - a small d6 system
 - [Tiny d10](https://tinyd10.com/downloads/) a small d10 system (CC)
 - [TriStat dX](https://www.drivethrurpg.com/product/368/TriStat-dX-Core-System-RolePlaying-Game) - a system that only uses three stats, AFAICT the author's current intention is for it to be freely distributable (GNU?)
@@ -101,6 +101,7 @@ Emoji Symbols used in this list
 Many systems that are otherwise paid have free quickstarts. NOTE: unless explicitly indicated, those are NOT under open licenses! You can read and play them, but NOT use the content in your own ttrpg!
 
 - [Alternity](https://www.drivethrurpg.com/product/249531/Alternity-Science-Fiction-RPG-Demo-Pack) - a free demo of a new version of Alternity, an rpg with an interesting dice mechanic (roll d20 and add or substract a second die)
+- [Beta Red](https://www.drivethrurpg.com/product/342799/Beta-Red-Quickstart) - an awesome cyberpunkish system using a d6 dice pool
 - [Burning Wheel](https://www.drivethrurpg.com/product/98542/Burning-Wheel-Gold-Hub-and-Spokes)
 - [Coriolis](https://www.drivethrurpg.com/product/204702/Coriolis-The-Third-Horizon--Quickstart) - an awesome Arabian-themed space setting that runs on d6 dicepools
 - [Dungeon Crawl Classics](https://goodman-games.com/store/product/dcc-rpg-quick-start-rules-intro-adventures-pdf/) - quickstart and intro adventure for an awesome system that uses a reverse step die system, with imaginary dice such as d3, d5 or d7 (OGL) (note: the quickstart on drivethru is paid)
