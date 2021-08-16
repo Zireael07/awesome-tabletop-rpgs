@@ -110,6 +110,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Elite Dangerous RPG](https://www.modiphius.net/products/elite-dangerous-rpg-the-worst-intentions-free-quickstart) - an awesome system based on Elite: Dangerous, the space game
 - [GURPS Lite](http://www.sjgames.com/gurps/lite/) - a free starter for GURPS
 - [HackMaster Basic](https://www.drivethrurpg.com/product/104757/HackMaster-Basic-free)
+- [Lancer](https://massif-press.itch.io/corebook-pdf-free) - all the player facing rules (which are a majority of them) are free
 - [Lex Arcana](https://www.drivethrurpg.com/product/253285/Lex-Arcana-RPG--QuickStarter) - an awesome system set in alternate history Rome with an interesting system that allows for linear, pyramid or bell curves
 - [Mistborn](https://www.drivethrurpg.com/product_info.php?products_id=95856) - based on a book series of the same name, a d6 dice pool based system where you attempt to match any dice showing less than 6
 - [Mythic d6](https://kheperapublishing.files.wordpress.com/2018/06/mythicd6_khp034-quickstart.pdf) - a derivative of Opend6->Legend d6
