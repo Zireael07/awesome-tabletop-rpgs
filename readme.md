@@ -67,6 +67,7 @@ Emoji Symbols used in this list
 - [TriStat dX](https://www.drivethrurpg.com/product/368/TriStat-dX-Core-System-RolePlaying-Game) - a system that only uses three stats, AFAICT the author's current intention is for it to be freely distributable (GNU?)
 - [Tunnel Goons](https://natetreme.itch.io/tunnelgoons) - a lightweight 2d6 game that has spawned some hacks (CC)
 - [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice) - an awesome system that uses various kinds of dice (CC)
+- [Ugis](https://www.drivethrurpg.com/product/371431/UGIS-Rpg) - a mix of Risus and Microlite d20, with a bit of Fate (CC)
 - [YAGS](https://www.notasnark.net/yags/index) Yet Another Game System - a generic system (GNU)
 - [The Window](http://www.mimgames.com/window/rules/) - awesome minimalist reverse step die system
 - [x6](https://www.x6system.net/download/x6core2.pdf) - d6 based system (CC)
