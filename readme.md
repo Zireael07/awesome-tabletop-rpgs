@@ -129,6 +129,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [ACKS SRD](https://github.com/jhhoffmann/ACKS_SRD) Adventurer Conqueror King System SRD (OGL)
 - [Action! System](https://web.archive.org/web/20060318013414/http://goldrushgames.com/start/modules.php?op=modload&name=Downloads&file=index&req=viewsdownload&sid=5) - an archived copy of the publisher's downloads section, YMMV when trying to download (some links are 404) / [online version](https://www.darkshire.net/jhkim/rpg/srd/srd_action/index.html) converted from the originals (OGL)
 - [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel) - has an online SRD (CC)
+- [Charge RPG](https://fari.games/en/srds/fari-games/charge-rpg) - a free and open generic RPG by Fari Games (CC)
 - [DoubleZero SRD](https://dancinglightspress.com/wp-content/uploads/2020/06/DoubleZero-SRD.zip) - a modernized version of the old James Bond RPG (OGL)
 - [d20/D&D 3.5](https://www.d20srd.org/) - "the world's best known Role-Playing Game" aka Dungeons and Dragons 3.5 (OGL)
 - [d20 Modern/Future/Arcana](http://www.d20resources.com/) - three more derivatives of d20 have been partially made available (OGL)
