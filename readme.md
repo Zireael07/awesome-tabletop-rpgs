@@ -47,6 +47,7 @@ Emoji Symbols used in this list
 - [Knights of the Black Lily](http://www.knightsoftheblacklily.com/downloads/) - an awesome d100 system with degrees of success
 - [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) - a small system that spawned several hacks (CC)
 - [Microlite20](https://microlite20.org/) - d20 distilled down to the basics (OGL)
+- [minimald6](https://matausch.itch.io/minimald6) - a simple d6 based game that spawned many hacks (CC)
 - [null.hack](https://github.com/ghostctrl/null.hack) - awesome game based on Mothership RPG (Panic! Engine) - d100 based
 - [One Roll Engine](http://www.1km1kt.net/rpg/one-roll-engine-toolkit/comment-page-1) - an awesome system that is based on a pool of d10 (or d6) and finding sets of matching dice (CC)
 - [Opend6](http://opend6project.org/) - SRD for a system that sums up a pool of d6s (OGL)
@@ -156,6 +157,8 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 
 - [Capers](https://www.nerdburgergames.com/capers) - awesome game about superpowered gangsters in the 1920s, has an SRD (CC)
 - [Enchanted Realms](https://archive.org/details/enchanted-realms) - "free for anyone to take an use as they wish"
+- [Carta SRD](https://peachgardengames.itch.io/carta-srd) - a solitaire-based game
+
 
 ## Related Awesome Lists
 
