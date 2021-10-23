@@ -116,6 +116,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [First Five Fantasy Roleplaying Player's Guide](https://www.drivethrurpg.com/product/257346/First-Five-Fantasy-Roleplaying-Players-Guide) - a retroclone of OD&D, this does not contain monsters or treasure
 - [GURPS Lite](http://www.sjgames.com/gurps/lite/) - a free starter for GURPS
 - [HackMaster Basic](https://www.drivethrurpg.com/product/104757/HackMaster-Basic-free)
+- [Index Card RPG](https://www.drivethrurpg.com/product/221038/INDEX-CARD-RPG-Free-Quickstart)
 - [Lancer](https://massif-press.itch.io/corebook-pdf-free) - all the player facing rules (which are a majority of them) are free
 - [Lex Arcana](https://www.drivethrurpg.com/product/253285/Lex-Arcana-RPG--QuickStarter) - an awesome system set in alternate history Rome with an interesting system that allows for linear, pyramid or bell curves
 - [Mistborn](https://www.drivethrurpg.com/product_info.php?products_id=95856) - based on a book series of the same name, a d6 dice pool based system where you attempt to match any dice showing less than 6
