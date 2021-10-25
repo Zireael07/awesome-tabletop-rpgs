@@ -40,7 +40,7 @@ Emoji Symbols used in this list
 - [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic
 - [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
 - [Fuzion](http://rtalsoriangames.com/wp-content/uploads/2013/01/fuzion1.pdf) - the system that evolved from the one CP 2020 was based on. warnings, it's pretty much an attempt to marry CP with Hero System that... didn't really work. If you want an OGL version, look at Action! below
-- [G.A.M.E](https://boardgamegeek.com/filepage/185188/gme-system-troy-m-costisick) - step dice system that uses separate dice from heritage, trade, stats (requires boardgamegeek login to download) (CC)
+- [G.A.M.E](http://www.1km1kt.net/wp-content/uploads/2011/02/GAMEv1-1.pdf) - step dice system that uses separate dice from heritage, trade, stats (alternate [link](https://boardgamegeek.com/filepage/185188/gme-system-troy-m-costisick) requires boardgamegeek login to download) (CC)
 - [Ironsworn](https://www.ironswornrpg.com/) - an awesome solo system (CC)
 - [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version)
 - [Jovian Despair](https://img.4plebs.org/boards/tg/image/1418/65/1418658840108.pdf) - an awesome d6 minisystem (CC)
