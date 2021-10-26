@@ -136,6 +136,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [CORE Micro](https://as-if.itch.io/core-micro) - a dice pool based system with bonuses on top (CC)
 - [DoubleZero SRD](https://dancinglightspress.com/wp-content/uploads/2020/06/DoubleZero-SRD.zip) - a modernized version of the old James Bond RPG (OGL)
 - [d20/D&D 3.5](https://www.d20srd.org/) - "the world's best known Role-Playing Game" aka Dungeons and Dragons 3.5 (OGL)
+- [d20Hero](https://www.d20herosrd.com/) - OGC from Mutants and Masterminds 3rd edition (OGL)
 - [d20 Modern/Future/Arcana](http://www.d20resources.com/) - three more derivatives of d20 have been partially made available (OGL)
 - [Pathfinder 1,2/Starfinder](http://aonsrd.com/) - a d20 derivative that has a lot of content available - not just the core rulebooks, but pretty much all 1st party content (OGL)
 - [D&D 5e](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf) - 5e also has an SRD, too! (OGL)
