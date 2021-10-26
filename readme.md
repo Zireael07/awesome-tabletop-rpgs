@@ -31,9 +31,11 @@ Emoji Symbols used in this list
 - [Commonsense](https://www.drivethrurpg.com/product/359829/Commonsense-A-RolePlaying-Game-System) - an awesome solo oracle, not to mention a list of all the simple ways to achieve weird dice (CC)
 - [Crypts and Castles](https://cozycabin.org/cc/) - an awesome simple 2d6 based game (CC)
 - [d6 Pool](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest) - what it says on the tin (CC)
+- [Demon Hunters and a Comedy of Terrors Beta](https://www.drivethrurpg.com/product/156564/Demon-Hunters-A-Comedy-of-Terrors-Gen-Con-Beta) - a FATE derivative that uses polyhedral dice (CC)
 - [Dominion Rules](http://www.dominionrules.org/) - Fantasy and historical based on d12
 - [Eclipse Phase](https://robboyle.wordpress.com/eclipse-phase-pdfs/) - a d100 sci-fi system (CC)
 - [FATE](https://www.faterpg.com/) - a rules-lite system that has spawned a ton of hacks. Has an SRD (OGL or CC)
+  - [Polyhedral FATE](https://www.dropbox.com/s/5hl8z4kjvbhrbxf/Fate%20Polyhedral%20Edition.pdf?dl=0) - the most original of all FATE hacks (CC)
 - [FivexFive](https://www.drivethrurpg.com/browse/pub/5581/Dreams-and-Dragons) - a system where you roll two d5 and multiply the results
 - [Forge Engine Universal Roleplaying System](https://www.drivethrurpg.com/product/235070/Forge-Engine--Universal-RolePlaying-System) - an awesome universal system that uses various dice (CC)
 - [Freeform Universal](https://www.perilplanet.com/freeform-universal/) - the third big freeform system that has also spawned some derivatives. link to beta for v2 down the page, too (CC)
