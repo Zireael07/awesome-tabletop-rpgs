@@ -72,6 +72,7 @@ Emoji Symbols used in this list
 - [Tunnel Goons](https://natetreme.itch.io/tunnelgoons) - a lightweight 2d6 game that has spawned some hacks (CC)
 - [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice) - an awesome system that uses various kinds of dice (CC)
 - [Ugis](https://www.drivethrurpg.com/product/371431/UGIS-Rpg) - a mix of Risus and Microlite d20, with a bit of Fate (CC)
+- [Witchcraft](https://web.archive.org/web/20070723055223/http://www.edenstudios.net/witchcraft/WitchcraftCorebook.zip) (archived) - a Unisystem based game straight from the publisher's page, no license specified!
 - [YAGS](https://www.notasnark.net/yags/index) Yet Another Game System - a generic system (GNU)
 - [The Window](http://www.mimgames.com/window/rules/) - awesome minimalist reverse step die system
 - [x6](https://www.x6system.net/download/x6core2.pdf) - d6 based system (CC)
@@ -100,6 +101,7 @@ Emoji Symbols used in this list
 - [OSRIC](http://www.knights-n-knaves.com/osric/) also available on DriveThru for free (OGL)
 - [Spellcraft & Swordplay](https://www.drivethrurpg.com/product/94115/Spellcraft--Swordplay-Basic-Game) - a retroclone of OD&D using only d6 (OGL)
 - [The Big Brown Book](https://app.box.com/s/3f919711f32fb357f55e) - another D&D retroclone using only d6, hosted on Box by Fossil Bank
+- [The Wasteland Games Archive](https://web.archive.org/web/20100427185908/http://www.iworg.com/waste/) - (archived) all the out of print products Wasteland Games made available for free
 - [ZeFRS](https://sites.google.com/site/zefrsrpg/) - a retroclone of TSR's Conan (the one using a Marvel-like lookup chart) (public domain)
 
 ### Quickstarts
@@ -127,6 +129,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Perstoria](https://www.drivethrurpg.com/product/363032/Perstoria-Free-Sample) - a 2d6 based system
 - [Pip System](https://www.drivethrurpg.com/product/217218/Pip-System-QuickStart) - another Opend6 derivative that went in a different direction
 - [Shadow of the Demon Lord](https://www.drivethrurpg.com/product/156576/Victims-of-the-Demon-Lord-Starter-Guide) - a d20 derivative that has some awesome ideas (e.g. boons and banes)
+- [System DL](http://www.edgeongaming.com/systemdl/) - a diceless system
 - [Tunnels and Trolls](https://www.drivethrurpg.com/product/54407) - free version of one of the first roleplaying games, that can also be played solo
 
 ### System Reference Documents
