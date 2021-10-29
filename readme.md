@@ -67,6 +67,7 @@ Emoji Symbols used in this list
 - [The Simple Game System](https://tsgs.atomicunicycle.com) - an awesome simple system (it uses only d6) but surprisingly deep (CC)
 - [Tiny d6](https://www.tinyd6.com/what-is-tinyd6) - a small d6 system
 - [Tiny d10](https://tinyd10.com/downloads/) a small d10 system (CC)
+- [Totem](https://www.drivethrurpg.com/product/238272/Totem) - a small system that uses a bag of differently colored tokens for action resolution (note, NO license specified!)
 - [TriStat dX](https://www.drivethrurpg.com/product/368/TriStat-dX-Core-System-RolePlaying-Game) - a system that only uses three stats, AFAICT the author's current intention is for it to be freely distributable (GNU?)
 - [Tunnel Goons](https://natetreme.itch.io/tunnelgoons) - a lightweight 2d6 game that has spawned some hacks (CC)
 - [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice) - an awesome system that uses various kinds of dice (CC)
