@@ -36,6 +36,7 @@ Emoji Symbols used in this list
 - [Eclipse Phase](https://robboyle.wordpress.com/eclipse-phase-pdfs/) - a d100 sci-fi system (CC)
 - [FATE](https://www.faterpg.com/) - a rules-lite system that has spawned a ton of hacks. Has an SRD (OGL or CC)
   - [Polyhedral FATE](https://www.dropbox.com/s/5hl8z4kjvbhrbxf/Fate%20Polyhedral%20Edition.pdf?dl=0) - the most original of all FATE hacks (CC)
+  - [Destiny Dice](https://yarukizero.files.wordpress.com/2013/07/destiny-dice.pdf) - custom dice designed to be used with FATE, but adaptable to other systems too (CC)
 - [FivexFive](https://www.drivethrurpg.com/browse/pub/5581/Dreams-and-Dragons) - a system where you roll two d5 and multiply the results
 - [Forge Engine Universal Roleplaying System](https://www.drivethrurpg.com/product/235070/Forge-Engine--Universal-RolePlaying-System) - an awesome universal system that uses various dice (CC)
 - [Freeform Universal](https://www.perilplanet.com/freeform-universal/) - the third big freeform system that has also spawned some derivatives. link to beta for v2 down the page, too (CC)
@@ -62,6 +63,7 @@ Emoji Symbols used in this list
 - [Worlds without Number](https://www.drivethrurpg.com/product/348809) - vastly expanded compared to Stars.
 - [Siren RPG](https://github.com/ElectricCoffee/SirenRPG) - an open source 3d6 system (CC)
 - [So1um](https://github.com/brunobord/so1um) Role Playing Game designed & written by Matt Jackson. Can be played solo.
+- [Spiral Dice](https://www.spiraldice.com/sapio) - an awesome system using custom dice, available for free.
 - [Talislanta](http://talislanta.com/talislanta-library) - an awesome d20 system that has nothing to do with "the world's most popular rpg" (CC)
 - [Ten Thousand Worlds](https://www.tenthousandworlds.org/) - an awesome system if you need a height/weight/speed logarithmic table (CC)
 - [The Simple Game System](https://tsgs.atomicunicycle.com) - an awesome simple system (it uses only d6) but surprisingly deep (CC)
@@ -109,6 +111,7 @@ Emoji Symbols used in this list
 Many systems that are otherwise paid have free quickstarts. NOTE: unless explicitly indicated, those are NOT under open licenses! You can read and play them, but NOT use the content in your own ttrpg!
 
 - [Alternity](https://www.drivethrurpg.com/product/249531/Alternity-Science-Fiction-RPG-Demo-Pack) - a free demo of a new version of Alternity, an rpg with an interesting dice mechanic (roll d20 and add or substract a second die)
+- [Aspect Prime](https://www.thegamecrafter.com/games/aspect-prime-dice/download/7302E912-CE92-11EA-B0F1-79A41D859782) - an awesome system using custom dice. If you missed the beta, this is the way to see how their dice work.
 - [Beta Red](https://www.drivethrurpg.com/product/342799/Beta-Red-Quickstart) - an awesome cyberpunkish system using a d6 dice pool
 - [Burning Wheel](https://www.drivethrurpg.com/product/98542/Burning-Wheel-Gold-Hub-and-Spokes)
 - [Carbon Grey](https://www.drivethrurpg.com/product/367220/Carbon-Grey-RPG--Quickstart-Guide) - a derivative of Opend6 that is available for free, and the setting primer is PWYW
