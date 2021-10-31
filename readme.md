@@ -79,6 +79,17 @@ Emoji Symbols used in this list
 - [The Window](http://www.mimgames.com/window/rules/) - awesome minimalist reverse step die system
 - [x6](https://www.x6system.net/download/x6core2.pdf) - d6 based system (CC)
 
+
+### Free games
+
+These games have unclear licensing, no licensing specified, or custom licenses.
+
+- [Dark Coast](http://hjemmesider.diku.dk/~torbenm/DarkCoast/Dark.pdf) - an awesome small system by the author of Troll, a dice probability calculator
+- [Quasar](http://www.conroyhome.net/alan/quasar/index.html) - a hard sci-fi system that tries to avoid violence, relies on a lot of tables. "You may copy them as much as you desire so long as they are not modified. You may base any game products, whether for profit or not, on the Quasar game without any royalties, licenses, or other payments."
+- [Planar Gaming System](http://sirjoeli.freeservers.com/index.html) - an awesome roll and keep system, no license specified
+- [Star Squad](https://drive.google.com/drive/folders/1-d25Rw3-ZwR72waxUat-CS6tQNvbVtiL) - awesome looking freebie worth looking at, no license specified
+
+
 ### Retroclones
 
 - [Basic Fantasy](https://www.basicfantasy.org/) - an D&D retroclone available for free
