@@ -20,19 +20,19 @@ Emoji Symbols used in this list
 
 ## Tabletop RPGs
 
-### Games
+### Open source games
+
+All the systems listed in this section are under open licenses, i.e. can be remixed, and often rehosted.
 
 - [1w6](https://www.1w6.org/english) - a system based on d6 (GPL)
 - [24xx](https://jasontocci.itch.io/24xx) - a small system that has spawned several hacks (CC)
 - [6d6](https://6d6rpg.com/reviews/) - an awesome d6 system. their wiki, unfortunately, seems to be down (CC)
-- [Adventurers!](https://www.drivethrurpg.com/product/120987/Adventurers-Revised-2Pages-Edition) - an awesome 2d6 system that is free but does NOT have a license specified - i.e. take a look but you can't really remix it
 - [Aurora Engine](https://lynxthoughts.com/aurora/) - a d6 dicepool system that uses half dice (public domain)
 - [Bivius](https://lostpangolin.files.wordpress.com/2016/10/bivius-solo-rpg1.pdf) - simple awesome solo game (CC)
 - [Commonsense](https://www.drivethrurpg.com/product/359829/Commonsense-A-RolePlaying-Game-System) - an awesome solo oracle, not to mention a list of all the simple ways to achieve weird dice (CC)
 - [Crypts and Castles](https://cozycabin.org/cc/) - an awesome simple 2d6 based game (CC)
 - [d6 Pool](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest) - what it says on the tin (CC)
 - [Demon Hunters and a Comedy of Terrors Beta](https://www.drivethrurpg.com/product/156564/Demon-Hunters-A-Comedy-of-Terrors-Gen-Con-Beta) - a FATE derivative that uses polyhedral dice (CC)
-- [Dominion Rules](http://www.dominionrules.org/) - Fantasy and historical based on d12
 - [Eclipse Phase](https://robboyle.wordpress.com/eclipse-phase-pdfs/) - a d100 sci-fi system (CC)
 - [FATE](https://www.faterpg.com/) - a rules-lite system that has spawned a ton of hacks. Has an SRD (OGL or CC)
   - [Polyhedral FATE](https://www.dropbox.com/s/5hl8z4kjvbhrbxf/Fate%20Polyhedral%20Edition.pdf?dl=0) - the most original of all FATE hacks (CC)
@@ -40,54 +40,54 @@ Emoji Symbols used in this list
 - [FivexFive](https://www.drivethrurpg.com/browse/pub/5581/Dreams-and-Dragons) - a system where you roll two d5 and multiply the results
 - [Forge Engine Universal Roleplaying System](https://www.drivethrurpg.com/product/235070/Forge-Engine--Universal-RolePlaying-System) - an awesome universal system that uses various dice (CC)
 - [Freeform Universal](https://www.perilplanet.com/freeform-universal/) - the third big freeform system that has also spawned some derivatives. link to beta for v2 down the page, too (CC)
-- [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic
-- [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
-- [Fuzion](http://rtalsoriangames.com/wp-content/uploads/2013/01/fuzion1.pdf) - the system that evolved from the one CP 2020 was based on. warnings, it's pretty much an attempt to marry CP with Hero System that... didn't really work. If you want an OGL version, look at Action! below
 - [G.A.M.E](http://www.1km1kt.net/wp-content/uploads/2011/02/GAMEv1-1.pdf) - step dice system that uses separate dice from heritage, trade, stats (alternate [link](https://boardgamegeek.com/filepage/185188/gme-system-troy-m-costisick) requires boardgamegeek login to download) (CC)
 - [Ironsworn](https://www.ironswornrpg.com/) - an awesome solo system (CC)
-- [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version)
+- [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version according to the website)
 - [Jovian Despair](https://img.4plebs.org/boards/tg/image/1418/65/1418658840108.pdf) - an awesome d6 minisystem (CC)
-- [Knights of the Black Lily](http://www.knightsoftheblacklily.com/downloads/) - an awesome d100 system with degrees of success
 - [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) - a small system that spawned several hacks (CC)
 - [Microlite20](https://microlite20.org/) - d20 distilled down to the basics (OGL)
 - [minimald6](https://matausch.itch.io/minimald6) - a simple d6 based game that spawned many hacks (CC)
-- [null.hack](https://github.com/ghostctrl/null.hack) - awesome game based on Mothership RPG (Panic! Engine) - d100 based
 - [One Roll Engine](http://www.1km1kt.net/rpg/one-roll-engine-toolkit/comment-page-1) - an awesome system that is based on a pool of d10 (or d6) and finding sets of matching dice (CC)
 - [Opend6](http://opend6project.org/) - SRD for a system that sums up a pool of d6s (OGL)
 - [Open Adventure](https://github.com/openadventure/Open-Adventure) - an open system that uses a d6-d6 as core (CC)
 - [Open Core Roleplaying System](https://www.drivethrurpg.com/product/2727/Open-Core-Role-Playing-System-Classic) - an d20 system that allows swapping the d20 out for some other dice (OGL)
-- [Open Legend](https://openlegendrpg.com/) - a free system online
 - [Ops and Tactics](https://opsandtactics.blogspot.com/) - an awesome modern combat system (CC)
-- [Risus: The Anything RPG](https://www.risusrpg.com/rules) - an extremely simple d6 based system that spawned a number of home rules
-- [Stars without Number](https://www.drivethrurpg.com/product/86467/Stars-Without-Number-Original-Free-Edition) - has a Traveller feel. Has a paid version, too.
-- [Worlds without Number](https://www.drivethrurpg.com/product/348809) - vastly expanded compared to Stars.
 - [Siren RPG](https://github.com/ElectricCoffee/SirenRPG) - an open source 3d6 system (CC)
-- [So1um](https://github.com/brunobord/so1um) Role Playing Game designed & written by Matt Jackson. Can be played solo.
-- [Spiral Dice](https://www.spiraldice.com/sapio) - an awesome system using custom dice, available for free.
+- [So1um](https://github.com/brunobord/so1um) Role Playing Game designed & written by Matt Jackson. Can be played solo. (CC)
 - [Talislanta](http://talislanta.com/talislanta-library) - an awesome d20 system that has nothing to do with "the world's most popular rpg" (CC)
 - [Ten Thousand Worlds](https://www.tenthousandworlds.org/) - an awesome system if you need a height/weight/speed logarithmic table (CC)
 - [The Simple Game System](https://tsgs.atomicunicycle.com) - an awesome simple system (it uses only d6) but surprisingly deep (CC)
-- [Tiny d6](https://www.tinyd6.com/what-is-tinyd6) - a small d6 system
 - [Tiny d10](https://tinyd10.com/downloads/) a small d10 system (CC)
-- [Totem](https://www.drivethrurpg.com/product/238272/Totem) - a small system that uses a bag of differently colored tokens for action resolution (note, NO license specified!)
-- [TriStat dX](https://www.drivethrurpg.com/product/368/TriStat-dX-Core-System-RolePlaying-Game) - a system that only uses three stats, AFAICT the author's current intention is for it to be freely distributable (GNU?)
 - [Tunnel Goons](https://natetreme.itch.io/tunnelgoons) - a lightweight 2d6 game that has spawned some hacks (CC)
 - [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice) - an awesome system that uses various kinds of dice (CC)
 - [Ugis](https://www.drivethrurpg.com/product/371431/UGIS-Rpg) - a mix of Risus and Microlite d20, with a bit of Fate (CC)
-- [Witchcraft](https://web.archive.org/web/20070723055223/http://www.edenstudios.net/witchcraft/WitchcraftCorebook.zip) (archived) - a Unisystem based game straight from the publisher's page, no license specified!
 - [YAGS](https://www.notasnark.net/yags/index) Yet Another Game System - a generic system (GNU)
-- [The Window](http://www.mimgames.com/window/rules/) - awesome minimalist reverse step die system
 - [x6](https://www.x6system.net/download/x6core2.pdf) - d6 based system (CC)
 
 
 ### Free games
 
-These games have unclear licensing, no licensing specified, or custom licenses.
+These games have unclear licensing, no licensing specified (which means you can't remix them), or custom licenses (e.g. allowing only supplements to be created).
 
+- [Adventurers!](https://www.drivethrurpg.com/product/120987/Adventurers-Revised-2Pages-Edition) - an awesome 2d6 system that is free; no license specified
 - [Dark Coast](http://hjemmesider.diku.dk/~torbenm/DarkCoast/Dark.pdf) - an awesome small system by the author of Troll, a dice probability calculator
+- [Dominion Rules](http://www.dominionrules.org/) - Fantasy and historical based on d12; released under DRL (Dominion Rules License)
+- [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic, presented as a wiki site; no licensing specified
+- [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
+- [Fuzion](http://rtalsoriangames.com/wp-content/uploads/2013/01/fuzion1.pdf) - the system that evolved from the one CP 2020 was based on. warnings, it's pretty much an attempt to marry CP with Hero System that... didn't really work. If you want an OGL version, look at Action! below
+- [Knights of the Black Lily](http://www.knightsoftheblacklily.com/downloads/) - an awesome d100 system with degrees of success; "making the full rules available is definitely planned for the future[...] in the meantime, [...] please send us an e-mail"
+- [null.hack](https://github.com/ghostctrl/null.hack) - awesome game based on Mothership RPG (Panic! Engine) - d100 based; no license specified
+- [Open Legend](https://openlegendrpg.com/) - a free system online with their own Open Legend Community License; unfortunately it's not clear what constitutes the OGC
 - [Quasar](http://www.conroyhome.net/alan/quasar/index.html) - a hard sci-fi system that tries to avoid violence, relies on a lot of tables. "You may copy them as much as you desire so long as they are not modified. You may base any game products, whether for profit or not, on the Quasar game without any royalties, licenses, or other payments."
 - [Planar Gaming System](http://sirjoeli.freeservers.com/index.html) - an awesome roll and keep system, no license specified
+- [Risus: The Anything RPG](https://www.risusrpg.com/rules) - an extremely simple d6 based system that spawned a number of home rules; their own community license
+- [Skyrealms of Jorune](https://archive.org/details/SkyrealmsofJoruneArchive/Jorune_1) - an archived RPG system from 1985, no license specified
+- [Spiral Dice](https://www.spiraldice.com/sapio) - an awesome system using custom dice, available for free, no license specified
 - [Star Squad](https://drive.google.com/drive/folders/1-d25Rw3-ZwR72waxUat-CS6tQNvbVtiL) - awesome looking freebie worth looking at, no license specified
+- [The Window](http://www.mimgames.com/window/rules/) - awesome minimalist reverse step die system, "You can take this text and do with it as you wish (for your personal use, mind you.)"
+- [TriStat dX](https://www.drivethrurpg.com/product/368/TriStat-dX-Core-System-RolePlaying-Game) - a system that only uses three stats, AFAICT the author's current intention is for it to be freely distributable (GNU?)
+- [Totem](https://www.drivethrurpg.com/product/238272/Totem) - a small system that uses a bag of differently colored tokens for action resolution; no license specified
+- [Witchcraft](https://web.archive.org/web/20070723055223/http://www.edenstudios.net/witchcraft/WitchcraftCorebook.zip) (archived) - a Unisystem based game straight from the publisher's page, no license specified!
 
 
 ### Retroclones
@@ -143,7 +143,10 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Perstoria](https://www.drivethrurpg.com/product/363032/Perstoria-Free-Sample) - a 2d6 based system
 - [Pip System](https://www.drivethrurpg.com/product/217218/Pip-System-QuickStart) - another Opend6 derivative that went in a different direction
 - [Shadow of the Demon Lord](https://www.drivethrurpg.com/product/156576/Victims-of-the-Demon-Lord-Starter-Guide) - a d20 derivative that has some awesome ideas (e.g. boons and banes)
+- [Stars without Number](https://www.drivethrurpg.com/product/86467/Stars-Without-Number-Original-Free-Edition) - has a Traveller feel. Has a paid version, too, with minimal differences.
+- [Worlds without Number](https://www.drivethrurpg.com/product/348809) - vastly expanded compared to Stars. Has a free and paid version, with minimal differences.
 - [System DL](http://www.edgeongaming.com/systemdl/) - a diceless system
+- [Tiny d6](https://www.tinyd6.com/what-is-tinyd6) - a small d6 system
 - [Tunnels and Trolls](https://www.drivethrurpg.com/product/54407) - free version of one of the first roleplaying games, that can also be played solo
 
 ### System Reference Documents
