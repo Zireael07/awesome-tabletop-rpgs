@@ -64,6 +64,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Tunnel Goons](https://natetreme.itch.io/tunnelgoons) - a lightweight 2d6 game that has spawned some hacks (CC)
 - [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice) - an awesome system that uses various kinds of dice (CC)
 - [Ugis](https://www.drivethrurpg.com/product/371431/UGIS-Rpg) - a mix of Risus and Microlite d20, with a bit of Fate (CC)
+- [Wushu](http://danielbayn.com/wushu/) - an awesome cinematic game that uses d6 pools (CC)
 - [YAGS](https://www.notasnark.net/yags/index) Yet Another Game System - a generic system (GNU)
 - [x6](https://www.x6system.net/download/x6core2.pdf) - d6 based system (CC)
 
@@ -79,6 +80,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
 - [Fuzion](http://rtalsoriangames.com/wp-content/uploads/2013/01/fuzion1.pdf) - the system that evolved from the one CP 2020 was based on. warnings, it's pretty much an attempt to marry CP with Hero System that... didn't really work. If you want an OGL version, look at Action! below
 - [Knights of the Black Lily](http://www.knightsoftheblacklily.com/downloads/) - an awesome d100 system with degrees of success; "making the full rules available is definitely planned for the future[...] in the meantime, [...] please send us an e-mail"
+- [MetaScape II](https://sites.google.com/site/metascapegames/gming) - an awesome game with an original "doubling die" (a specially marked d16); no license specified
 - [null.hack](https://github.com/ghostctrl/null.hack) - awesome game based on Mothership RPG (Panic! Engine) - d100 based; no license specified
 - [Open Legend](https://openlegendrpg.com/) - a free system online with their own Open Legend Community License; unfortunately it's not clear what constitutes the OGC
 - [Quasar](http://www.conroyhome.net/alan/quasar/index.html) - a hard sci-fi system that tries to avoid violence, relies on a lot of tables. "You may copy them as much as you desire so long as they are not modified. You may base any game products, whether for profit or not, on the Quasar game without any royalties, licenses, or other payments."
