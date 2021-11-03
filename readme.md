@@ -29,6 +29,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [6d6](https://6d6rpg.com/reviews/) - an awesome d6 system. their wiki, unfortunately, seems to be down (CC)
 - [Aurora Engine](https://lynxthoughts.com/aurora/) - a d6 dicepool system that uses half dice (public domain)
 - [Bivius](https://lostpangolin.files.wordpress.com/2016/10/bivius-solo-rpg1.pdf) - simple awesome solo game (CC)
+- [Chronia](https://www.chroniarpg.com/download) - an awesome technofantasy game based on d6 pools (CC)
 - [Commonsense](https://www.drivethrurpg.com/product/359829/Commonsense-A-RolePlaying-Game-System) - an awesome solo oracle, not to mention a list of all the simple ways to achieve weird dice (CC)
 - [Crypts and Castles](https://cozycabin.org/cc/) - an awesome simple 2d6 based game (CC)
 - [d6 Pool](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest) - what it says on the tin (CC)
