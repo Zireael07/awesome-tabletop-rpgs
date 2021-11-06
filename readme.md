@@ -53,6 +53,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Open Adventure](https://github.com/openadventure/Open-Adventure) - an open system that uses a d6-d6 as core (CC)
 - [Open Core Roleplaying System](https://www.drivethrurpg.com/product/2727/Open-Core-Role-Playing-System-Classic) - an d20 system that allows swapping the d20 out for some other dice (OGL)
 - [Ops and Tactics](https://opsandtactics.blogspot.com/) - an awesome modern combat system (CC)
+- [Rapido y Facil](http://www.rapidoyfacil.es/proyectos/ryf-nucleo-3-x/documents/) - an awesome d6 roll and keep system (keep middle) (warning, it's not English, [ES]!) (CC)
 - [SAGA](https://yggdrasildistro.files.wordpress.com/2018/12/Saga-Core-Rulebook-6th-Edition.pdf) - a dice pool based universal system (CC)
 - [Siren RPG](https://github.com/ElectricCoffee/SirenRPG) - an open source 3d6 system (CC)
 - [Sufficiently Advanced](http://www.1km1kt.net/rpg/sufficiently-advanced) - an awesome far future system that is released under CC according to a comment on the linked page (CC)
@@ -141,6 +142,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [First Five Fantasy Roleplaying Player's Guide](https://www.drivethrurpg.com/product/257346/First-Five-Fantasy-Roleplaying-Players-Guide) - a retroclone of OD&D, this does not contain monsters or treasure
 - [GURPS Lite](http://www.sjgames.com/gurps/lite/) - a free starter for GURPS
 - [HackMaster Basic](https://www.drivethrurpg.com/product/104757/HackMaster-Basic-free)
+- [Heroes and Hardships](https://www.drivethrurpg.com/product/314553/Heroes-and-Hardships-Quickstart-Guide) - an awesome d10 roll and keep universal system
 - [Index Card RPG](https://www.drivethrurpg.com/product/221038/INDEX-CARD-RPG-Free-Quickstart)
 - [Lancer](https://massif-press.itch.io/corebook-pdf-free) - all the player facing rules (which are a majority of them) are free
 - [Lex Arcana](https://www.drivethrurpg.com/product/253285/Lex-Arcana-RPG--QuickStarter) - an awesome system set in alternate history Rome with an interesting system that allows for linear, pyramid or bell curves
