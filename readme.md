@@ -81,6 +81,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic, presented as a wiki site; no licensing specified
 - [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
 - [Fuzion](http://rtalsoriangames.com/wp-content/uploads/2013/01/fuzion1.pdf) - the system that evolved from the one CP 2020 was based on. warnings, it's pretty much an attempt to marry CP with Hero System that... didn't really work. If you want an OGL version, look at Action! below
+- [Idee Fixe](http://ideefixe-rpg.pl) - an awesome d10 dice pool system (warning, it's not English, [PL]!)
 - [Knights of the Black Lily](http://www.knightsoftheblacklily.com/downloads/) - an awesome d100 system with degrees of success; "making the full rules available is definitely planned for the future[...] in the meantime, [...] please send us an e-mail"
 - [MetaScape II](https://sites.google.com/site/metascapegames/gming) - an awesome game with an original "doubling die" (a specially marked d16); no license specified
 - [null.hack](https://github.com/ghostctrl/null.hack) - awesome game based on Mothership RPG (Panic! Engine) - d100 based; no license specified
