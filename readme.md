@@ -76,6 +76,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 These games have unclear licensing, no licensing specified (which means you can't remix them), or custom licenses (e.g. allowing only supplements to be created).
 
 - [Adventurers!](https://www.drivethrurpg.com/product/120987/Adventurers-Revised-2Pages-Edition) - an awesome 2d6 system that is free; no license specified
+- [The Contract](https://www.thecontractrpg.com/info/how-to-play/) - an awesome d10 dice pool system that is entirely online; no license specified
 - [Dark Coast](http://hjemmesider.diku.dk/~torbenm/DarkCoast/Dark.pdf) - an awesome small system by the author of Troll, a dice probability calculator
 - [Dominion Rules](http://www.dominionrules.org/) - Fantasy and historical based on d12; released under DRL (Dominion Rules License)
 - [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic, presented as a wiki site; no licensing specified
