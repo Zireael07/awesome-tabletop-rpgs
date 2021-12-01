@@ -131,6 +131,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 Many systems that are otherwise paid have free quickstarts. NOTE: unless explicitly indicated, those are NOT under open licenses! You can read and play them, but NOT use the content in your own ttrpg!
 
 - [Alternity](https://www.drivethrurpg.com/product/249531/Alternity-Science-Fiction-RPG-Demo-Pack) - a free demo of a new version of Alternity, an rpg with an interesting dice mechanic (roll d20 and add or substract a second die)
+- [Ashes of Power](https://edge-studio.net/freebies/genesys/gns16_t_i_ashes_of_power_free_dlc.pdf) - a free intro adventure for Genesys (a system that uses custom dice)
 - [Aspect Prime](https://www.thegamecrafter.com/games/aspect-prime-dice/download/7302E912-CE92-11EA-B0F1-79A41D859782) - an awesome system using custom dice. If you missed the beta, this is the way to see how their dice work.
 - [Beta Red](https://www.drivethrurpg.com/product/342799/Beta-Red-Quickstart) - an awesome cyberpunkish system using a d6 dice pool
 - [Burning Wheel](https://www.drivethrurpg.com/product/98542/Burning-Wheel-Gold-Hub-and-Spokes)
