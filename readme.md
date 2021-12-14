@@ -55,6 +55,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Ops and Tactics](https://opsandtactics.blogspot.com/) - an awesome modern combat system (CC)
 - [Rapido y Facil](http://www.rapidoyfacil.es/proyectos/ryf-nucleo-3-x/documents/) - an awesome d6 roll and keep system (keep middle) (warning, it's not English, [ES]!) (CC)
 - [SAGA](https://yggdrasildistro.files.wordpress.com/2018/12/Saga-Core-Rulebook-6th-Edition.pdf) - a dice pool based universal system (CC)
+- [Sad Press Collection](https://sadpress.itch.io/sad-press-srd-collection) - seven little hackable games (CC)
 - [Siren RPG](https://github.com/ElectricCoffee/SirenRPG) - an open source 3d6 system (CC)
 - [Sufficiently Advanced](http://www.1km1kt.net/rpg/sufficiently-advanced) - an awesome far future system that is released under CC according to a comment on the linked page (CC)
 - [So1um](https://github.com/brunobord/so1um) Role Playing Game designed & written by Matt Jackson. Can be played solo. (CC)
@@ -213,6 +214,19 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Micro RPG catalog](https://github.com/brunobord/micro-rpg-catalog)
 - [D&D Retroclones](http://taxidermicowlbear.weebly.com/dd-retroclones.html)
 - [Indie RPGs](http://www.flick.com/~cdr/rpg/links.html)
+
+
+## FAQ
+
+Q: I like <insert name of a commercial system>, are there free/open alternatives that I can hack?
+A: Sure, for many of those alternatives exist. Look in the quickstart category first, many of those are OGL.
+
+Alternatively, try the following ideas:
+- if you like **Cortex Prime**, try the Polyhedral FATE variant
+- If you like Genesys or Star Wars FFG, try the Destiny Dice
+- If you like SilCore, try Jovian Despair
+
+
 
 ## Contribute
 
