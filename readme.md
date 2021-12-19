@@ -42,6 +42,9 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Forge Engine Universal Roleplaying System](https://www.drivethrurpg.com/product/235070/Forge-Engine--Universal-RolePlaying-System) - an awesome universal system that uses various dice (CC)
 - [Freeform Universal](https://www.perilplanet.com/freeform-universal/) - the third big freeform system that has also spawned some derivatives. link to beta for v2 down the page, too (CC)
 - [G.A.M.E](http://www.1km1kt.net/wp-content/uploads/2011/02/GAMEv1-1.pdf) - step dice system that uses separate dice from heritage, trade, stats (alternate [link](https://boardgamegeek.com/filepage/185188/gme-system-troy-m-costisick) requires boardgamegeek login to download) (CC)
+- [GIST](https://zeruhur.itch.io/gist) - an awesome minimal 2d6 system (CC)
+- [Ghost Lines](http://www.onesevendesign.com/ghostlines/) - awesome minimal Apocalypse World/PbtA derivative (CC)
+- [In the Dark of a Fallen Empire](https://jkent2585.itch.io/in-the-dark-of-a-fallen-empire) - an awesome derivative of In the Light of a Ghost Star (CC)
 - [Ironsworn](https://www.ironswornrpg.com/) - an awesome solo system (CC)
 - [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version according to the website)
 - [Jovian Despair](https://img.4plebs.org/boards/tg/image/1418/65/1418658840108.pdf) - an awesome d6 minisystem (CC)
@@ -190,6 +193,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [WOIN](https://sites.google.com/site/woinrrd/home) - a dice pool based game where the size of the pool is determined by several factors; has optional rules converting to other resolution systems (OGL)
 - [vsM Engine](https://www.dropbox.com/s/2bj4ysgrmen8csh/vsMEngine.zip?dl=0) - if you played vs Monsters, vs Outlaws or any other in the series, this is the basic SRD. all original sites are down so the link is to somebody's copy on Dropbox (OGL)
 - [Year Zero Engine](http://frank-mitchell.com/rpg/year-zero-engine-ogl/) - an SRD for YZE (OGL)
+- [The Worlds of Legacy](https://jkent2585.itch.io/in-the-dark-of-a-fallen-empire) - an SRD for Legacy: Life Among the Ruins (an awesome PbtA derivative that has settlement and family-building rules) (CC)
 - [Traveller](https://www.traveller-srd.com/core-rules/) - an SRD for original (non-d20) Traveller (OGL)
 - [Troika!](https://melsonian-arts-council.itch.io/troika-numinous-edition) - scroll down past the download button to see the download link for the SRD 
 
@@ -215,6 +219,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Micro RPG catalog](https://github.com/brunobord/micro-rpg-catalog)
 - [D&D Retroclones](http://taxidermicowlbear.weebly.com/dd-retroclones.html)
 - [Indie RPGs](http://www.flick.com/~cdr/rpg/links.html)
+- [Grande Lista dei GDR sotto licenza libera](https://forum.locandagdr.it/t/la-grande-lista-dei-gdr-sotto-licenza-libera/818) - warning, the list is in Italian and some entries are only in Italian [IT]
 
 
 ## FAQ
