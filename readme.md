@@ -224,7 +224,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 
 ## FAQ
 
-Q: I like <insert name of a commercial system>, are there free/open alternatives that I can hack?
+Q: I like \< insert name of a commercial system \>, are there free/open alternatives that I can hack?
 A: Sure, for many of those alternatives exist. Look in the quickstart category first, many of those are OGL.
 
 Alternatively, try the following ideas:
