@@ -84,10 +84,12 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [The Contract](https://www.thecontractrpg.com/info/how-to-play/) - an awesome d10 dice pool system that is entirely online; no license specified
 - [Dark Coast](http://hjemmesider.diku.dk/~torbenm/DarkCoast/Dark.pdf) - an awesome small system by the author of Troll, a dice probability calculator
 - [Dominion Rules](http://www.dominionrules.org/) - Fantasy and historical based on d12; released under DRL (Dominion Rules License)
+- [Farhome](https://github.com/scrabbletank/farhome-rules) - an awesome free system using custom dice (all d6); unclear licensing
 - [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic, presented as a wiki site; no licensing specified
 - [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
 - [Fuzion](http://rtalsoriangames.com/wp-content/uploads/2013/01/fuzion1.pdf) - the system that evolved from the one CP 2020 was based on. warnings, it's pretty much an attempt to marry CP with Hero System that... didn't really work. If you want an OGL version, look at Action! below
 - [Idee Fixe](http://ideefixe-rpg.pl) - an awesome d10 dice pool system (warning, it's not English, [PL]!)
+- [Iron & Aether](https://iandarpg.com/Rulebook/Home/RulesHome.html) - awesome free online system, licensing unclear
 - [Knights of the Black Lily](http://www.knightsoftheblacklily.com/downloads/) - an awesome d100 system with degrees of success; "making the full rules available is definitely planned for the future[...] in the meantime, [...] please send us an e-mail"
 - [MetaScape II](https://sites.google.com/site/metascapegames/gming) - an awesome game with an original "doubling die" (a specially marked d16); no license specified
 - [null.hack](https://github.com/ghostctrl/null.hack) - awesome game based on Mothership RPG (Panic! Engine) - d100 based; no license specified
@@ -99,6 +101,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Skyrealms of Jorune](https://archive.org/details/SkyrealmsofJoruneArchive/Jorune_1) - an archived RPG system from 1985, no license specified
 - [Spiral Dice](https://www.spiraldice.com/sapio) - an awesome system using custom dice, available for free, no license specified
 - [Star Squad](https://drive.google.com/drive/folders/1-d25Rw3-ZwR72waxUat-CS6tQNvbVtiL) - awesome looking freebie worth looking at, no license specified
+- [Talespinner](https://talespinner.eu/overview) - awesome online d10 system; no license specified
 - [The Window](http://www.mimgames.com/window/rules/) - awesome minimalist reverse step die system, "You can take this text and do with it as you wish (for your personal use, mind you.)"
 - [TriStat dX](https://www.drivethrurpg.com/product/368/TriStat-dX-Core-System-RolePlaying-Game) - a system that only uses three stats, AFAICT the author's current intention is for it to be freely distributable (GNU?)
 - [Totem](https://www.drivethrurpg.com/product/238272/Totem) - a small system that uses a bag of differently colored tokens for action resolution; no license specified
