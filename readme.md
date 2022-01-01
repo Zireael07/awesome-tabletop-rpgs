@@ -60,6 +60,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [SAGA](https://yggdrasildistro.files.wordpress.com/2018/12/Saga-Core-Rulebook-6th-Edition.pdf) - a dice pool based universal system (CC)
 - [Sad Press Collection](https://sadpress.itch.io/sad-press-srd-collection) - seven little hackable games (CC)
 - [Siren RPG](https://github.com/ElectricCoffee/SirenRPG) - an open source 3d6 system (CC)
+- [Spiral Dice](https://spiraldice.itch.io/sdhg) - an awesome system using custom dice (CC)
 - [Sufficiently Advanced](http://www.1km1kt.net/rpg/sufficiently-advanced) - an awesome far future system that is released under CC according to a comment on the linked page (CC)
 - [So1um](https://github.com/brunobord/so1um) Role Playing Game designed & written by Matt Jackson. Can be played solo. (CC)
 - [Talislanta](http://talislanta.com/talislanta-library) - an awesome d20 system that has nothing to do with "the world's most popular rpg" (CC)
@@ -155,7 +156,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [GURPS Lite](http://www.sjgames.com/gurps/lite/) - a free starter for GURPS
 - [HackMaster Basic](https://www.drivethrurpg.com/product/104757/HackMaster-Basic-free)
 - [Heroes and Hardships](https://www.drivethrurpg.com/product/314553/Heroes-and-Hardships-Quickstart-Guide) - an awesome d10 roll and keep universal system
-- [Index Card RPG](https://www.drivethrurpg.com/product/221038/INDEX-CARD-RPG-Free-Quickstart)
+- [Index Card RPG](https://www.drivethrurpg.com/product/221038/INDEX-CARD-RPG-Free-Quickstart) - an awesome system in which you roll a d20 plus a stat die; the quickstart (3e upgrade) is CC licensed
 - [Lancer](https://massif-press.itch.io/corebook-pdf-free) - all the player facing rules (which are a majority of them) are free
 - [Lex Arcana](https://www.drivethrurpg.com/product/253285/Lex-Arcana-RPG--QuickStarter) - an awesome system set in alternate history Rome with an interesting system that allows for linear, pyramid or bell curves
 - [Mistborn](https://www.drivethrurpg.com/product_info.php?products_id=95856) - based on a book series of the same name, a d6 dice pool based system where you attempt to match any dice showing less than 6
