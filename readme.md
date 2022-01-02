@@ -70,6 +70,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Tiny d10](https://tinyd10.com/downloads/) a small d10 system (CC)
 - [Tunnel Goons](https://natetreme.itch.io/tunnelgoons) - a lightweight 2d6 game that has spawned some hacks (CC)
 - [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice) - an awesome system that uses various kinds of dice (CC)
+- [Tzi](https://tzi.technically.fun) - an awesome system using poker dice (MIT)
 - [Ugis](https://www.drivethrurpg.com/product/371431/UGIS-Rpg) - a mix of Risus and Microlite d20, with a bit of Fate (CC)
 - [Wushu](http://danielbayn.com/wushu/) - an awesome cinematic game that uses d6 pools (CC)
 - [YAGS](https://www.notasnark.net/yags/index) Yet Another Game System - a generic system (GNU)
