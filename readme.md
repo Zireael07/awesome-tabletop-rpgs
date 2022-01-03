@@ -206,9 +206,11 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 
 ### Card-based games
 
+- [C22](https://c22system.com/thebasics) - an awesome card-based system that has an SRD (CC)
 - [Capers](https://www.nerdburgergames.com/capers) - awesome game about superpowered gangsters in the 1920s, has an SRD (CC)
 - [Enchanted Realms](https://archive.org/details/enchanted-realms) - "free for anyone to take an use as they wish"
 - [Carta SRD](https://peachgardengames.itch.io/carta-srd) - a solitaire-based game
+- [Freelancer's Guide](https://pagodagamesllc.itch.io/freelancers-guide) - a sci-fi card based game
 
 
 ## Related Awesome Lists
