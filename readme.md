@@ -160,12 +160,14 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Index Card RPG](https://www.drivethrurpg.com/product/221038/INDEX-CARD-RPG-Free-Quickstart) - an awesome system in which you roll a d20 plus a stat die; the quickstart (3e upgrade) is CC licensed
 - [Lancer](https://massif-press.itch.io/corebook-pdf-free) - all the player facing rules (which are a majority of them) are free
 - [Lex Arcana](https://www.drivethrurpg.com/product/253285/Lex-Arcana-RPG--QuickStarter) - an awesome system set in alternate history Rome with an interesting system that allows for linear, pyramid or bell curves
+- [Lost Eons](https://davidblandy.itch.io/lost-eons) - awesome solarpunk cross between BitD and 24xx, scroll down to see the quickstart download
 - [Mistborn](https://www.drivethrurpg.com/product_info.php?products_id=95856) - based on a book series of the same name, a d6 dice pool based system where you attempt to match any dice showing less than 6
 - [Mutant Chronicles](https://www.drivethrurpg.com/product/126929/Mutant-Chronicles-3rd-Edition-FREE-Quickstart) - an awesome 2d20 based system from Modiphius; starters for Dune and Star Trek licensed games are also available from DriveThru
 - [Mythic d6](https://kheperapublishing.files.wordpress.com/2018/06/mythicd6_khp034-quickstart.pdf) - a derivative of Opend6->Legend d6
 - [Perstoria](https://www.drivethrurpg.com/product/363032/Perstoria-Free-Sample) - a 2d6 based system
 - [Pip System](https://www.drivethrurpg.com/product/217218/Pip-System-QuickStart) - another Opend6 derivative that went in a different direction
 - [Shadow of the Demon Lord](https://www.drivethrurpg.com/product/156576/Victims-of-the-Demon-Lord-Starter-Guide) - a d20 derivative that has some awesome ideas (e.g. boons and banes)
+- [The House of Blue Men](https://www.drivethrurpg.com/product_info.php?products_id=83076) - quickstart and intro adventure for Sorcery and Superscience, an awesome system that uses a "floating dice" system (basically step dice)
 - [Stars without Number](https://www.drivethrurpg.com/product/86467/Stars-Without-Number-Original-Free-Edition) - has a Traveller feel. Has a paid version, too, with minimal differences.
 - [Worlds without Number](https://www.drivethrurpg.com/product/348809) - vastly expanded compared to Stars. Has a free and paid version, with minimal differences.
 - [System DL](http://www.edgeongaming.com/systemdl/) - a diceless system
