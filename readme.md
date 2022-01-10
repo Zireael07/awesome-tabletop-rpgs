@@ -145,6 +145,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Ashes of Power](https://edge-studio.net/freebies/genesys/gns16_t_i_ashes_of_power_free_dlc.pdf) - a free intro adventure for Genesys (a system that uses custom dice)
 - [Aspect Prime](https://www.thegamecrafter.com/games/aspect-prime-dice/download/7302E912-CE92-11EA-B0F1-79A41D859782) - an awesome system using custom dice. If you missed the beta, this is the way to see how their dice work.
 - [Beta Red](https://www.drivethrurpg.com/product/342799/Beta-Red-Quickstart) - an awesome cyberpunkish system using a d6 dice pool
+- [BOLT RPG](https://ajeypandey.itch.io/bolt-rpg-engine) - a system that uses one die for task resolution and another for complications (CC)
 - [Burning Wheel](https://www.drivethrurpg.com/product/98542/Burning-Wheel-Gold-Hub-and-Spokes)
 - [Carbon Grey](https://www.drivethrurpg.com/product/367220/Carbon-Grey-RPG--Quickstart-Guide) - a derivative of Opend6 that is available for free, and the setting primer is PWYW
 - [Coriolis](https://www.drivethrurpg.com/product/204702/Coriolis-The-Third-Horizon--Quickstart) - an awesome Arabian-themed space setting that runs on d6 dicepools
