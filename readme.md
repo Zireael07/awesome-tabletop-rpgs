@@ -44,6 +44,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [G.A.M.E](http://www.1km1kt.net/wp-content/uploads/2011/02/GAMEv1-1.pdf) - step dice system that uses separate dice from heritage, trade, stats (alternate [link](https://boardgamegeek.com/filepage/185188/gme-system-troy-m-costisick) requires boardgamegeek login to download) (CC)
 - [GIST](https://zeruhur.itch.io/gist) - an awesome minimal 2d6 system (CC)
 - [Ghost Lines](http://www.onesevendesign.com/ghostlines/) - awesome minimal Apocalypse World/PbtA derivative (CC)
+- [HexGen](https://www.drivethrurpg.com/product/383947/HexGen-RPG-Basic-Rules) - a modern/scifi/cyberpunk awesome system where skills range from 3d6 to 10d6 with tactical combat (CC)
 - [In the Dark of a Fallen Empire](https://jkent2585.itch.io/in-the-dark-of-a-fallen-empire) - an awesome derivative of In the Light of a Ghost Star (CC)
 - [Ironsworn](https://www.ironswornrpg.com/) - an awesome solo system (CC)
 - [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version according to the website)
@@ -55,7 +56,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Opend6](http://opend6project.org/) - SRD for a system that sums up a pool of d6s (OGL)
 - [Open Adventure](https://github.com/openadventure/Open-Adventure) - an open system that uses a d6-d6 as core (CC)
 - [Open Core Roleplaying System](https://www.drivethrurpg.com/product/2727/Open-Core-Role-Playing-System-Classic) - an d20 system that allows swapping the d20 out for some other dice (OGL)
-- [Ops and Tactics](https://opsandtactics.blogspot.com/) - an awesome modern combat system (CC)
+- [Ops and Tactics](https://opsandtactics.blogspot.com/) - an awesome modern tactical combat system (CC)
 - [Rapido y Facil](http://www.rapidoyfacil.es/proyectos/ryf-nucleo-3-x/documents/) - an awesome d6 roll and keep system (keep middle) (warning, it's not English, [ES]!) (CC)
 - [SAGA](https://yggdrasildistro.files.wordpress.com/2018/12/Saga-Core-Rulebook-6th-Edition.pdf) - a dice pool based universal system (CC)
 - [Sad Press Collection](https://sadpress.itch.io/sad-press-srd-collection) - seven little hackable games (CC)
@@ -165,6 +166,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Mistborn](https://www.drivethrurpg.com/product_info.php?products_id=95856) - based on a book series of the same name, a d6 dice pool based system where you attempt to match any dice showing less than 6
 - [Mutant Chronicles](https://www.drivethrurpg.com/product/126929/Mutant-Chronicles-3rd-Edition-FREE-Quickstart) - an awesome 2d20 based system from Modiphius; starters for Dune and Star Trek licensed games are also available from DriveThru
 - [Mythic d6](https://kheperapublishing.files.wordpress.com/2018/06/mythicd6_khp034-quickstart.pdf) - a derivative of Opend6->Legend d6
+- [Neon Lords of the Toxic Wasteland](https://www.drivethrurpg.com/product/384295/Neon-Lords-of-the-Toxic-Wasteland-Core-Rulez-Quick-Start-Edition) - awesome OSR post-apocalyptic futuristic system
 - [Perstoria](https://www.drivethrurpg.com/product/363032/Perstoria-Free-Sample) - a 2d6 based system
 - [Pip System](https://www.drivethrurpg.com/product/217218/Pip-System-QuickStart) - another Opend6 derivative that went in a different direction
 - [Shadow of the Demon Lord](https://www.drivethrurpg.com/product/156576/Victims-of-the-Demon-Lord-Starter-Guide) - a d20 derivative that has some awesome ideas (e.g. boons and banes)
