@@ -197,6 +197,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [GUMSHOE](https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/) - a system for running investigative scenarios from Pelgrane Press (CC or OGL)
 - [Iridium System](https://www.drivethrurpg.com/product_info.php?products_id=29076) - an awesome system that has a Core Reference (OGL)
 - [Mark of the Odd](https://drive.google.com/drive/folders/1C3PgdyvIFf0YdDl-cXpsM_Fr_Vivw5Yj) - an SRD for the core system behind Into the Odd (the system itself also has a free edition)
+- [Nuts and Bolts SRD](https://www.drivethrurpg.com/product/385021/Nuts--Bolts-SRD) - a simple system based on throwing any dice which have an equal number of success and failure faces (CC)
 - [OpenQuest](https://questworlds.chaosium.com/) - SRD for a modern version of HeroQuest (a d20 system with "masteries") (OGL)
 - [Runic SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_runic/index.html) - looks to be an SRD of a Runequest adaptation (OGL)
 - [D100II SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_d100ii/D100II_SRD_1.pdf) - another Runequest-like SRD (OGL)
