@@ -101,6 +101,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [ParaŚwiaty](https://www.drivethrurpg.com/product/342595/ParaSwiaty) - an awesome generic supplement about parallel/alternative universes (warning, not English, [PL]!); no license specified
 - [Planar Gaming System](http://sirjoeli.freeservers.com/index.html) - an awesome roll and keep system, no license specified
 - [Risus: The Anything RPG](https://www.risusrpg.com/rules) - an extremely simple d6 based system that spawned a number of home rules; their own community license
+- [Simple Universal System](https://drive.google.com/drive/folders/1s68EFmWQOPgj_tNj9CwabqMj4i2PKHCM) - looks to be a d20 evolution; the cards are awesome; no license specified
 - [Skyrealms of Jorune](https://archive.org/details/SkyrealmsofJoruneArchive/Jorune_1) - an archived RPG system from 1985, no license specified
 - [Spiral Dice](https://www.spiraldice.com/sapio) - an awesome system using custom dice, available for free, no license specified
 - [Star Squad](https://drive.google.com/drive/folders/1-d25Rw3-ZwR72waxUat-CS6tQNvbVtiL) - awesome looking freebie worth looking at, no license specified
@@ -181,6 +182,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 
 - [ACKS SRD](https://github.com/jhhoffmann/ACKS_SRD) Adventurer Conqueror King System SRD (OGL)
 - [Action! System](https://web.archive.org/web/20060318013414/http://goldrushgames.com/start/modules.php?op=modload&name=Downloads&file=index&req=viewsdownload&sid=5) - an archived copy of the publisher's downloads section, YMMV when trying to download (some links are 404) / [online version](https://www.darkshire.net/jhkim/rpg/srd/srd_action/index.html) converted from the originals (OGL)
+- [ARC](https://arc-rpg.com/arcanum) - a doom tabletop system that also has a quickstart
 - [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel) - has an online SRD (CC)
 - [Cairn](https://cairnrpg.com/cairn-srd/) - itself a descendant of Knave and Into the Odd, it has its own SRD (CC)
 - [Charge RPG](https://fari.games/en/srds/fari-games/charge-rpg) - a free and open generic RPG by Fari Games (CC)
@@ -201,6 +203,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [OpenQuest](https://questworlds.chaosium.com/) - SRD for a modern version of HeroQuest (a d20 system with "masteries") (OGL)
 - [Runic SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_runic/index.html) - looks to be an SRD of a Runequest adaptation (OGL)
 - [D100II SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_d100ii/D100II_SRD_1.pdf) - another Runequest-like SRD (OGL)
+- [Push](https://fari.games/en/srds/cezar-capacle/push) - simple 2d6 system, has a free SRD (CC)
 - [WaRP](http://www.atlas-games.com/pdf_storage/WaRPSystemPackage.zip) - the system used in Over the Edge (OGL)
 - [WOIN](https://sites.google.com/site/woinrrd/home) - a dice pool based game where the size of the pool is determined by several factors; has optional rules converting to other resolution systems (OGL)
 - [vsM Engine](https://www.dropbox.com/s/2bj4ysgrmen8csh/vsMEngine.zip?dl=0) - if you played vs Monsters, vs Outlaws or any other in the series, this is the basic SRD. all original sites are down so the link is to somebody's copy on Dropbox (OGL)
