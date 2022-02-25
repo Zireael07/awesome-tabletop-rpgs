@@ -106,6 +106,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Spiral Dice](https://www.spiraldice.com/sapio) - an awesome system using custom dice, available for free, no license specified
 - [Star Squad](https://drive.google.com/drive/folders/1-d25Rw3-ZwR72waxUat-CS6tQNvbVtiL) - awesome looking freebie worth looking at, no license specified
 - [Talespinner](https://talespinner.eu/overview) - awesome online d10 system; no license specified
+- [Trespasser RPG](https://tundalus.itch.io/trespasser) - fantasy tactical RPG that uses d20 for checks and a potency die (increasing with level) for attacks; no license specified
 - [The Window](http://www.mimgames.com/window/rules/) - awesome minimalist reverse step die system, "You can take this text and do with it as you wish (for your personal use, mind you.)"
 - [TriStat dX](https://www.drivethrurpg.com/product/368/TriStat-dX-Core-System-RolePlaying-Game) - a system that only uses three stats, AFAICT the author's current intention is for it to be freely distributable (GNU?)
 - [Totem](https://www.drivethrurpg.com/product/238272/Totem) - a small system that uses a bag of differently colored tokens for action resolution; no license specified
