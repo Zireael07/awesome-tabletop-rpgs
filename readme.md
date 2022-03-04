@@ -87,6 +87,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [The Contract](https://www.thecontractrpg.com/info/how-to-play/) - an awesome d10 dice pool system that is entirely online; no license specified
 - [Dark Coast](http://hjemmesider.diku.dk/~torbenm/DarkCoast/Dark.pdf) - an awesome small system by the author of Troll, a dice probability calculator
 - [Dominion Rules](http://www.dominionrules.org/) - Fantasy and historical based on d12; released under DRL (Dominion Rules License)
+- [Dungeons the Dragoning 40k 7th](https://archive.org/details/DungeonsTheDragoning1.6) - an infamous mashup of D&D, Warhammer, Exalted and some others; no licensing specified
 - [Farhome](https://github.com/scrabbletank/farhome-rules) - an awesome free system using custom dice (all d6); unclear licensing
 - [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic, presented as a wiki site; no licensing specified
 - [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
