@@ -186,6 +186,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Action! System](https://web.archive.org/web/20060318013414/http://goldrushgames.com/start/modules.php?op=modload&name=Downloads&file=index&req=viewsdownload&sid=5) - an archived copy of the publisher's downloads section, YMMV when trying to download (some links are 404) / [online version](https://www.darkshire.net/jhkim/rpg/srd/srd_action/index.html) converted from the originals (OGL)
 - [ARC](https://arc-rpg.com/arcanum) - a doom tabletop system that also has a quickstart
 - [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel) - has an online SRD (CC)
+- [Breathless](https://fari-rpgs.itch.io/breathless-srd) - open SRD of the survival horror game of the same name (CC)
 - [Cairn](https://cairnrpg.com/cairn-srd/) - itself a descendant of Knave and Into the Odd, it has its own SRD (CC)
 - [Charge RPG](https://fari.games/en/srds/fari-games/charge-rpg) - a free and open generic RPG by Fari Games (CC)
 - [CORE Micro](https://as-if.itch.io/core-micro) - a dice pool based system with bonuses on top (CC)
