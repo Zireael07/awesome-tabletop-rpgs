@@ -188,6 +188,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel) - has an online SRD (CC)
 - [Breathless](https://fari-rpgs.itch.io/breathless-srd) - open SRD of the survival horror game of the same name (CC)
 - [Cairn](https://cairnrpg.com/cairn-srd/) - itself a descendant of Knave and Into the Odd, it has its own SRD (CC)
+- [Caltrop Core](https://titanomachyrpg.itch.io/caltropcore) - a d4 based system with an SRD (CC)
 - [Charge RPG](https://fari.games/en/srds/fari-games/charge-rpg) - a free and open generic RPG by Fari Games (CC)
 - [CORE Micro](https://as-if.itch.io/core-micro) - a dice pool based system with bonuses on top (CC)
 - [DoubleZero SRD](https://dancinglightspress.com/wp-content/uploads/2020/06/DoubleZero-SRD.zip) - a modernized version of the old James Bond RPG (OGL)
