@@ -186,6 +186,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 
 ### System Reference Documents
 
+- [2d20 SRD](https://drive.google.com/drive/folders/1tEim08EMnggRuzClD8Xq5a4DlfmLm7mA) - an SRD for 2d20 line of Modiphius games (custom license, see https://www.modiphius.net/pages/2d20)
 - [ACKS SRD](https://github.com/jhhoffmann/ACKS_SRD) Adventurer Conqueror King System SRD (OGL)
 - [Action! System](https://web.archive.org/web/20060318013414/http://goldrushgames.com/start/modules.php?op=modload&name=Downloads&file=index&req=viewsdownload&sid=5) - an archived copy of the publisher's downloads section, YMMV when trying to download (some links are 404) / [online version](https://www.darkshire.net/jhkim/rpg/srd/srd_action/index.html) converted from the originals (OGL)
 - [ARC](https://arc-rpg.com/arcanum) - a doom tabletop system that also has a quickstart
