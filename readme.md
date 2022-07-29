@@ -196,6 +196,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Caltrop Core](https://titanomachyrpg.itch.io/caltropcore) - a d4 based system with an SRD (CC)
 - [Charge RPG](https://fari.games/en/srds/fari-games/charge-rpg) - a free and open generic RPG by Fari Games (CC)
 - [CORE Micro](https://as-if.itch.io/core-micro) - a dice pool based system with bonuses on top (CC)
+- [Cypher System SRD](http://www.cyphersrd.com) - an SRD for the system powering Numenera (their own Open License which is extremely close to OGL)
 - [DoubleZero SRD](https://dancinglightspress.com/wp-content/uploads/2020/06/DoubleZero-SRD.zip) - a modernized version of the old James Bond RPG (OGL)
 - [d20/D&D 3.5](https://www.d20srd.org/) - "the world's best known Role-Playing Game" aka Dungeons and Dragons 3.5 (OGL)
 - [d20Hero](https://www.d20herosrd.com/) - OGC from Mutants and Masterminds 3rd edition (OGL)
