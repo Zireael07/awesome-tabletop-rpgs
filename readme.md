@@ -34,6 +34,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Chronia](https://www.chroniarpg.com/download) - an awesome technofantasy game based on d6 pools (CC)
 - [Commonsense](https://www.drivethrurpg.com/product/359829/Commonsense-A-RolePlaying-Game-System) - an awesome solo oracle, not to mention a list of all the simple ways to achieve weird dice (CC)
 - [Crypts and Castles](https://cozycabin.org/cc/) - an awesome simple 2d6 based game (CC)
+- :moneybag: [Cyberrats](https://alrine.itch.io/cyberrats) - XCOM-inspired sci-fi game of alien invasions, interns who are giant rats, and the megacorps who employ them. Running on LUMEN (CC)
 - [d6 Pool](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest) - what it says on the tin (CC)
 - [Demon Hunters and a Comedy of Terrors Beta](https://www.drivethrurpg.com/product/156564/Demon-Hunters-A-Comedy-of-Terrors-Gen-Con-Beta) - a FATE derivative that uses polyhedral dice (CC)
 - [Eclipse Phase](https://robboyle.wordpress.com/eclipse-phase-pdfs/) - a d100 sci-fi system (CC)
@@ -47,6 +48,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [G.A.M.E](http://www.1km1kt.net/wp-content/uploads/2011/02/GAMEv1-1.pdf) - step dice system that uses separate dice from heritage, trade, stats (alternate [link](https://boardgamegeek.com/filepage/185188/gme-system-troy-m-costisick) requires boardgamegeek login to download) (CC)
 - [GIST](https://zeruhur.itch.io/gist) - an awesome minimal 2d6 system (CC)
 - [Ghost Lines](http://www.onesevendesign.com/ghostlines/) - awesome minimal Apocalypse World/PbtA derivative (CC)
+- :moneybag: [Gratitude: A Horror Game](https://alrine.itch.io/gratitude-a-horror-game) - a mix of cosmic horror without cthulhu and body horror. Praised for its setting. A free [creator's kit](https://alrine.itch.io/gratitude-creators-kit) is also available. (CC
 - [HexGen](https://www.drivethrurpg.com/product/383947/HexGen-RPG-Basic-Rules) - a modern/scifi/cyberpunk awesome system where skills range from 3d6 to 10d6 with tactical combat (CC)
 - [In the Dark of a Fallen Empire](https://jkent2585.itch.io/in-the-dark-of-a-fallen-empire) - an awesome derivative of In the Light of a Ghost Star (CC)
 - [Ironsworn](https://www.ironswornrpg.com/) - an awesome solo system (CC)
