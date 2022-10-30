@@ -30,6 +30,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Aurora Engine](https://lynxthoughts.com/aurora/) - a d6 dicepool system that uses half dice (public domain)
 - [BIND](https://gitlab.com/bindrpg/core) - 2d6 vs TN 7 system which is literally open-source (Gitlab link) (GPL)
 - [Bivius](https://lostpangolin.files.wordpress.com/2016/10/bivius-solo-rpg1.pdf) - simple awesome solo game (CC)
+- [Cairn](https://cairnrpg.com/cairn-srd/) - itself a descendant of Knave and Into the Odd, it also has its own SRD (CC)
 - [Chronia](https://www.chroniarpg.com/download) - an awesome technofantasy game based on d6 pools (CC)
 - [Commonsense](https://www.drivethrurpg.com/product/359829/Commonsense-A-RolePlaying-Game-System) - an awesome solo oracle, not to mention a list of all the simple ways to achieve weird dice (CC)
 - [Crypts and Castles](https://cozycabin.org/cc/) - an awesome simple 2d6 based game (CC)
@@ -170,6 +171,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Index Card RPG](https://www.drivethrurpg.com/product/221038/INDEX-CARD-RPG-Free-Quickstart) - an awesome system in which you roll a d20 plus a stat die; the quickstart (3e upgrade) is CC licensed
 - [Lancer](https://massif-press.itch.io/corebook-pdf-free) - all the player facing rules (which are a majority of them) are free
 - [Lex Arcana](https://www.drivethrurpg.com/product/253285/Lex-Arcana-RPG--QuickStarter) - an awesome system set in alternate history Rome with an interesting system that allows for linear, pyramid or bell curves
+- [Liminal](https://www.drivethrurpg.com/product/258103/Liminal-Quickstart) - quickstart for an urban fantasy system
 - [Lost Eons](https://davidblandy.itch.io/lost-eons) - awesome solarpunk cross between BitD and 24xx, scroll down to see the quickstart download
 - [Mistborn](https://www.drivethrurpg.com/product_info.php?products_id=95856) - based on a book series of the same name, a d6 dice pool based system where you attempt to match any dice showing less than 6
 - [MORK BORG](https://jnohr.itch.io/mrk-borg-free) - an infamous system by Free League Publishing that uses mostly d20 rolls
@@ -194,7 +196,6 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [ARC](https://arc-rpg.com/arcanum) - a doom tabletop system that also has a quickstart
 - [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel) - has an online SRD (CC)
 - [Breathless](https://fari-rpgs.itch.io/breathless-srd) - open SRD of the survival horror game of the same name (CC)
-- [Cairn](https://cairnrpg.com/cairn-srd/) - itself a descendant of Knave and Into the Odd, it has its own SRD (CC)
 - [Caltrop Core](https://titanomachyrpg.itch.io/caltropcore) - a d4 based system with an SRD (CC)
 - [Charge RPG](https://fari.games/en/srds/fari-games/charge-rpg) - a free and open generic RPG by Fari Games (CC)
 - [CORE Micro](https://as-if.itch.io/core-micro) - a dice pool based system with bonuses on top (CC)
