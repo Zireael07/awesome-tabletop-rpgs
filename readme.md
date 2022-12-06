@@ -139,6 +139,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Lavender Hack](https://www.drivethrurpg.com/product/308733/Lavender-Hack-Tarantula-Hawk-Wasp-Edition) - OSR system that mixes PbtA moves with the B/X feel (OGL)
 - [Legends of Emerald Republic](https://agonizing-crimson.itch.io/legends-of-the-emerald-republic-ashcan-edition) - effectively a retroclone of L5R - uses their own resolution system, a pool of d6 and d10 (CC)
 - [Lightmaster](https://www.drivethrurpg.com/product/279034/Lightmaster-Core-Rulebook) - a retroclone of Rolemaster (OGL)
+- [Low Fantasy Gaming](https://lowfantasygaming.com/freepdf/) - has a free version 
 - [Orcus](https://github.com/Sanglorian/orcus) - 4e retroclone (OGL)
 - [Organic Rules Components (ORC)](https://vajraenterprises.com/new/?p=132) - a system that while not a retroclone looks and feels like many old-school systems (CC)
 - [OSE](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) - Old School Essentials SRD (OGL)
