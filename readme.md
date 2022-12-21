@@ -212,6 +212,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [D&D 5e](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf) - 5e also has an SRD, too! (OGL)
 - [Drama System](http://fossilbank.wikidot.com/local--files/source:chris-sakkas/DramaSystem%20SRD%20-%20Libre%20Edition.epub) - the system that powers Pelgrane Press Hillfolk (OGL or CC)
 - [Entropic Gaming System](https://www.drivethrurpg.com/product/287696/Entropic-Gaming-System-System-Reference-Document-EGS-20) - a step dice system which has separate dice for skills and attributes (OGL)
+- [Fajerbol SRD](http://fajerbol.pl/srd.html) - a d6-using system (CC) (warning, not English, [PL]!
 - [Fortune System](https://web.archive.org/web/20141014085941/http://www.funhavergames.com/fsrd/) - (archived page) a 2d6 system with wagers (CC)
 - [GUMSHOE](https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/) - a system for running investigative scenarios from Pelgrane Press (CC or OGL)
 - [Iridium System](https://www.drivethrurpg.com/product_info.php?products_id=29076) - an awesome system that has a Core Reference (OGL)
