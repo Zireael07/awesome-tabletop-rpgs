@@ -162,6 +162,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Carbon Grey](https://www.drivethrurpg.com/product/367220/Carbon-Grey-RPG--Quickstart-Guide) - a derivative of Opend6 that is available for free, and the setting primer is PWYW
 - [Coriolis](https://www.drivethrurpg.com/product/204702/Coriolis-The-Third-Horizon--Quickstart) - an awesome Arabian-themed space setting that runs on d6 dicepools
 - [Dragonbane](https://www.dropbox.com/s/0m7zabjz8jvvynn/DB_Quickstart_220829.pdf?dl=0) - Free League's successor to Drakar och Demoner
+- [Dwory Końca Świata](https://www.drivethrurpg.com/product/320953/Dwory-Konca-Swiata-Zestaw-Startowy-BUNDLE) - quickstart and some addons (character sheets etc.) for Dwory Końca Świata (warning, it's not English, [PL]!)
 - [Dungeon Crawl Classics](https://goodman-games.com/store/product/dcc-rpg-quick-start-rules-intro-adventures-pdf/) - quickstart and intro adventure for an awesome system that uses a reverse step die system, with imaginary dice such as d3, d5 or d7 (OGL) (note: the quickstart on drivethru is paid)
 - [EABA Lite](https://www.btrc.net/images/stories/freedownloads/eaba/btr6101_sample.pdf) - a free version of EABA, an awesome generic system (the full system does have their own license allowing supplements)
 - [Electric Bastionland](https://www.drivethrurpg.com/product/294656/Electric-Bastionland-Free-Edition) - an awesome system, an evolution of Into the Odd
