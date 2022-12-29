@@ -66,6 +66,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Rapido y Facil](http://www.rapidoyfacil.es/proyectos/ryf-nucleo-3-x/documents/) - an awesome d6 roll and keep system (keep middle) (warning, it's not English, [ES]!) (CC)
 - [SAGA](https://yggdrasildistro.files.wordpress.com/2018/12/Saga-Core-Rulebook-6th-Edition.pdf) - a dice pool based universal system (CC)
 - [Sad Press Collection](https://sadpress.itch.io/sad-press-srd-collection) - seven little hackable games (CC)
+- [Silver Wheels](https://drive.google.com/drive/folders/13cHBWwauE9u5yfSHttWE_lzFM6hSfzGl?fbclid=IwAR2iab6orEuvvdQGraQYzHGZpQ-Fa-C_mcGk3-NSsbhMqdvE9PgHTDjrDnk) - a d10 based car racing RPG (CC)
 - [Siren RPG](https://github.com/ElectricCoffee/SirenRPG) - an open source 3d6 system (CC)
 - [Spiral Dice](https://spiraldice.itch.io/sdhg) - an awesome system using custom dice (CC)
 - [Sufficiently Advanced](http://www.1km1kt.net/rpg/sufficiently-advanced) - an awesome far future system that is released under CC according to a comment on the linked page (CC)
