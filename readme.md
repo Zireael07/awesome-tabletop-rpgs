@@ -43,6 +43,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
   - [Destiny Dice](https://yarukizero.files.wordpress.com/2013/07/destiny-dice.pdf) - custom dice designed to be used with FATE, but adaptable to other systems too (CC)
 - [FivexFive](https://www.drivethrurpg.com/browse/pub/5581/Dreams-and-Dragons) - a system where you roll two d5 and multiply the results
 - [Forge Engine Universal Roleplaying System](https://www.drivethrurpg.com/product/235070/Forge-Engine--Universal-RolePlaying-System) - an awesome universal system that uses various dice (CC)
+- [Freeform Roleplaying](https://jessecoder.wixsite.com/freeformroleplaying) - A dirt-simple roleplaying game system for the curious noob (CC BY-SA 4.0)
 - [Freeform Universal](https://www.perilplanet.com/freeform-universal/) - the third big freeform system that has also spawned some derivatives. link to beta for v2 down the page, too (CC)
 - [FU 2 beta](https://www.perilplanet.com/wp-content/uploads/2021/02/FU2-Beta-V1.1-Oct-2020.pdf) - direct link to Freeform Universal 2 beta mentioned above
 - [G.A.M.E](http://www.1km1kt.net/wp-content/uploads/2011/02/GAMEv1-1.pdf) - step dice system that uses separate dice from heritage, trade, stats (alternate [link](https://boardgamegeek.com/filepage/185188/gme-system-troy-m-costisick) requires boardgamegeek login to download) (CC)
