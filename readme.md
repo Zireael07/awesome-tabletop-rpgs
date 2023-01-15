@@ -57,7 +57,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version according to the website)
 - [Jovian Despair](https://img.4plebs.org/boards/tg/image/1418/65/1418658840108.pdf) - an awesome d6 minisystem (CC)
 - [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) - a small system that spawned several hacks (CC)
-- [Masks](https://magpiegames.com/pages/masks) :moneybag: - the publisher intended just the mechanics to be licensed, not the fictional elements, but misapplied the license -- be polite, only use what was intended for use (CC)
+- :moneybag: [Masks](https://magpiegames.com/pages/masks) - the publisher intended just the mechanics to be licensed, not the fictional elements, but misapplied the license -- be polite, only use what was intended for use (CC)
 - [Microlite20](https://microlite20.org/) - d20 distilled down to the basics (OGL)
 - [minimald6](https://matausch.itch.io/minimald6) - a simple d6 based game that spawned many hacks (CC)
 - [One Roll Engine](http://www.1km1kt.net/rpg/one-roll-engine-toolkit/comment-page-1) - an awesome system that is based on a pool of d10 (or d6) and finding sets of matching dice (CC)
