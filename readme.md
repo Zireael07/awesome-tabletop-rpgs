@@ -57,6 +57,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version according to the website)
 - [Jovian Despair](https://img.4plebs.org/boards/tg/image/1418/65/1418658840108.pdf) - an awesome d6 minisystem (CC)
 - [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) - a small system that spawned several hacks (CC)
+- [Masks](https://magpiegames.com/pages/masks) :moneybag: - the publisher intended just the mechanics to be licensed, not the fictional elements, but misapplied the license -- be polite, only use what was intended for use (CC)
 - [Microlite20](https://microlite20.org/) - d20 distilled down to the basics (OGL)
 - [minimald6](https://matausch.itch.io/minimald6) - a simple d6 based game that spawned many hacks (CC)
 - [One Roll Engine](http://www.1km1kt.net/rpg/one-roll-engine-toolkit/comment-page-1) - an awesome system that is based on a pool of d10 (or d6) and finding sets of matching dice (CC)
@@ -64,7 +65,9 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Open Adventure](https://github.com/openadventure/Open-Adventure) - an open system that uses a d6-d6 as core (CC)
 - [Open Core Roleplaying System](https://www.drivethrurpg.com/product/2727/Open-Core-Role-Playing-System-Classic) - an d20 system that allows swapping the d20 out for some other dice (OGL)
 - [Ops and Tactics](https://opsandtactics.blogspot.com/) - an awesome modern tactical combat system (CC)
+- [Quest](https://www.adventure.game/resources/) - a fantasy game (CC BY)
 - [Rapido y Facil](http://www.rapidoyfacil.es/proyectos/ryf-nucleo-3-x/documents/) - an awesome d6 roll and keep system (keep middle) (warning, it's not English, [ES]!) (CC)
+- [The Resistance Toolbox](https://gshowitt.itch.io/the-resistance-toolbox) - the generic system used by Spire and Heart (CC BY)
 - [SAGA](https://yggdrasildistro.files.wordpress.com/2018/12/Saga-Core-Rulebook-6th-Edition.pdf) - a dice pool based universal system (CC)
 - [Sad Press Collection](https://sadpress.itch.io/sad-press-srd-collection) - seven little hackable games (CC)
 - [Silver Wheels](https://drive.google.com/drive/folders/13cHBWwauE9u5yfSHttWE_lzFM6hSfzGl?fbclid=IwAR2iab6orEuvvdQGraQYzHGZpQ-Fa-C_mcGk3-NSsbhMqdvE9PgHTDjrDnk) - a d10 based car racing RPG (CC)
@@ -77,6 +80,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Ten Thousand Worlds](https://www.tenthousandworlds.org/) - an awesome system if you need a height/weight/speed logarithmic table (CC)
 - [The Simple Game System](https://tsgs.atomicunicycle.com) - an awesome simple system (it uses only d6) but surprisingly deep (CC)
 - [Tiny d10](https://tinyd10.com/downloads/) a small d10 system (CC)
+- [Trophy](https://trophyrpg.com/system/) - a horror-fantasy system intended for one-shots (CC BY)
 - [Tunnel Goons](https://natetreme.itch.io/tunnelgoons) - a lightweight 2d6 game that has spawned some hacks (CC)
 - [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice) - an awesome system that uses various kinds of dice (CC)
 - [Tzi](https://tzi.technically.fun) - an awesome system using poker dice (MIT)
@@ -102,6 +106,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Fuzion](http://rtalsoriangames.com/wp-content/uploads/2013/01/fuzion1.pdf) - the system that evolved from the one CP 2020 was based on. warnings, it's pretty much an attempt to marry CP with Hero System that... didn't really work. If you want an OGL version, look at Action! below
 - [Idee Fixe](http://ideefixe-rpg.pl) - an awesome d10 dice pool system (warning, it's not English, [PL]!)
 - [Iron & Aether](https://iandarpg.com/Rulebook/Home/RulesHome.html) - awesome free online system, licensing unclear
+- [LUMEN](https://gilarpgs.itch.io/lumen) - explicitly free to use, but no formal license applied
 - [Knights of the Black Lily](http://www.knightsoftheblacklily.com/downloads/) - an awesome d100 system with degrees of success; "making the full rules available is definitely planned for the future[...] in the meantime, [...] please send us an e-mail"
 - [MetaScape II](https://sites.google.com/site/metascapegames/gming) - an awesome game with an original "doubling die" (a specially marked d16); no license specified
 - [null.hack](https://github.com/ghostctrl/null.hack) - awesome game based on Mothership RPG (Panic! Engine) - d100 based; no license specified
