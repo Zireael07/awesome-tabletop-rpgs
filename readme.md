@@ -261,6 +261,8 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Grande Lista dei GDR sotto licenza libera](https://forum.locandagdr.it/t/la-grande-lista-dei-gdr-sotto-licenza-libera/818) - warning, the list is in Italian and some entries are only in Italian [IT]
 
 
+If you are a creator rather than a player, and want to know what libre licenses you can use or what games to hack, look at this [list of libre RPGs by license](https://www.reddit.com/r/librerpg/wiki/list-of-libre-rpgs/)
+
 ## FAQ
 
 Q: I like \< insert name of a commercial system \>, are there free/open alternatives that I can hack?
