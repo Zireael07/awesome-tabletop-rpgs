@@ -224,6 +224,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Fortune System](https://web.archive.org/web/20141014085941/http://www.funhavergames.com/fsrd/) - (archived page) a 2d6 system with wagers (CC)
 - [GUMSHOE](https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/) - a system for running investigative scenarios from Pelgrane Press (CC or OGL)
 - [Iridium System](https://www.drivethrurpg.com/product_info.php?products_id=29076) - an awesome system that has a Core Reference (OGL)
+- [Level Up System](https://www.levelup5e.com/system-reference-document) - SRD for an attempt to improve on 5e, aka LevelUp5e (OGL)
 - [Mark of the Odd](https://drive.google.com/drive/folders/1C3PgdyvIFf0YdDl-cXpsM_Fr_Vivw5Yj) - an SRD for the core system behind Into the Odd (the system itself also has a free edition)
 - [Nuts and Bolts SRD](https://www.drivethrurpg.com/product/385021/Nuts--Bolts-SRD) - a simple system based on throwing any dice which have an equal number of success and failure faces (CC)
 - [OpenQuest](https://openquestrpg.com/srd/) - SRD for the open portion of the Mongoose Legend RPG (3e to be exact) (OGL) 
