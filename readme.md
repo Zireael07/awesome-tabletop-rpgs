@@ -217,7 +217,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [d20Hero](https://www.d20herosrd.com/) - OGC from Mutants and Masterminds 3rd edition (OGL)
 - [d20 Modern/Future/Arcana](http://www.d20resources.com/) - three more derivatives of d20 have been partially made available (OGL)
 - [Pathfinder 1,2/Starfinder](http://aonsrd.com/) - a d20 derivative that has a lot of content available - not just the core rulebooks, but pretty much all 1st party content (OGL)
-- [D&D 5e](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf) - 5e also has an SRD, too! (OGL)
+- [D&D 5e](https://www.dndbeyond.com/attachments/39j2li89/SRD5.1-CCBY4.0License.pdf) - 5e also has an SRD, too! (CC)
 - [Drama System](http://fossilbank.wikidot.com/local--files/source:chris-sakkas/DramaSystem%20SRD%20-%20Libre%20Edition.epub) - the system that powers Pelgrane Press Hillfolk (OGL or CC)
 - [Entropic Gaming System](https://www.drivethrurpg.com/product/287696/Entropic-Gaming-System-System-Reference-Document-EGS-20) - a step dice system which has separate dice for skills and attributes (OGL)
 - [Fajerbol SRD](http://fajerbol.pl/srd.html) - a d6-using system (CC) (warning, not English, [PL]!
