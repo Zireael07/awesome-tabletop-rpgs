@@ -108,6 +108,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Iron & Aether](https://iandarpg.com/Rulebook/Home/RulesHome.html) - awesome free online system, licensing unclear
 - [LUMEN](https://gilarpgs.itch.io/lumen) - explicitly free to use, but no formal license applied
 - [Knights of the Black Lily](http://www.knightsoftheblacklily.com/downloads/) - an awesome d100 system with degrees of success; "making the full rules available is definitely planned for the future[...] in the meantime, [...] please send us an e-mail"
+- [Mazes & Minotaurs](http://mazesandminotaurs.free.fr/) - what the earliest RPG might have been like if Gygax had been into Greek mythology. A fully playable game with supplements and magazine; no license specified except that it's copyrighted
 - [MetaScape II](https://sites.google.com/site/metascapegames/gming) - an awesome game with an original "doubling die" (a specially marked d16); no license specified
 - [null.hack](https://github.com/ghostctrl/null.hack) - awesome game based on Mothership RPG (Panic! Engine) - d100 based; no license specified
 - [Open Legend](https://openlegendrpg.com/) - a free system online with their own Open Legend Community License; unfortunately it's not clear what constitutes the OGC
