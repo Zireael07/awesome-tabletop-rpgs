@@ -238,6 +238,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [WOIN](https://sites.google.com/site/woinrrd/home) - a dice pool based game where the size of the pool is determined by several factors; has optional rules converting to other resolution systems (OGL)
 - [vsM Engine](https://www.dropbox.com/s/2bj4ysgrmen8csh/vsMEngine.zip?dl=0) - if you played vs Monsters, vs Outlaws or any other in the series, this is the basic SRD. all original sites are down so the link is to somebody's copy on Dropbox (OGL)
 - [Year Zero Engine](http://frank-mitchell.com/rpg/year-zero-engine-ogl/) - an SRD for YZE (OGL)
+- [The Resistance System](https://rowanrookanddecard.com/product/the-resistance-toolbox/) - an SRD for the system powering the Spire (CC)
 - [The Worlds of Legacy](https://jkent2585.itch.io/in-the-dark-of-a-fallen-empire) - an SRD for Legacy: Life Among the Ruins (an awesome PbtA derivative that has settlement and family-building rules) (CC)
 - [Traveller](https://www.traveller-srd.com/core-rules/) - an SRD for original (non-d20) Traveller (OGL)
 - [Troika!](https://melsonian-arts-council.itch.io/troika-numinous-edition) - scroll down past the download button to see the download link for the SRD 
