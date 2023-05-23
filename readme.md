@@ -114,6 +114,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Open Legend](https://openlegendrpg.com/) - a free system online with their own Open Legend Community License; unfortunately it's not clear what constitutes the OGC
 - [Quasar](http://www.conroyhome.net/alan/quasar/index.html) - a hard sci-fi system that tries to avoid violence, relies on a lot of tables. "You may copy them as much as you desire so long as they are not modified. You may base any game products, whether for profit or not, on the Quasar game without any royalties, licenses, or other payments."
 - [ParaŚwiaty](https://www.drivethrurpg.com/product/342595/ParaSwiaty) - an awesome generic supplement about parallel/alternative universes (warning, not English, [PL]!); no license specified
+- [Pits and Perils](http://www.oldehouserules.com/black-paperclip-classics.html) - various Pits and Perils stuff that is hosted for free (unclear licensing)
 - [Planar Gaming System](http://sirjoeli.freeservers.com/index.html) - an awesome roll and keep system, no license specified
 - [Risus: The Anything RPG](https://www.risusrpg.com/rules) - an extremely simple d6 based system that spawned a number of home rules; their own community license
 - [Simple Universal System](https://drive.google.com/drive/folders/1s68EFmWQOPgj_tNj9CwabqMj4i2PKHCM) - looks to be a d20 evolution; the cards are awesome; no license specified
@@ -170,7 +171,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Burning Wheel](https://www.drivethrurpg.com/product/98542/Burning-Wheel-Gold-Hub-and-Spokes)
 - [Carbon Grey](https://www.drivethrurpg.com/product/367220/Carbon-Grey-RPG--Quickstart-Guide) - a derivative of Opend6 that is available for free, and the setting primer is PWYW
 - [Coriolis](https://www.drivethrurpg.com/product/204702/Coriolis-The-Third-Horizon--Quickstart) - an awesome Arabian-themed space setting that runs on d6 dicepools
-- [Dragonbane](https://www.dropbox.com/s/0m7zabjz8jvvynn/DB_Quickstart_220829.pdf?dl=0) - Free League's successor to Drakar och Demoner
+- [Dragonbane](https://www.dropbox.com/s/0m7zabjz8jvvynn/DB_Quickstart_220829.pdf?dl=0) - Free League's successor to Drakar och Demoner (now on DT too https://www.drivethrurpg.com/product/409397/Dragonbane-Quickstart)
 - [Dwory Końca Świata](https://www.drivethrurpg.com/product/320953/Dwory-Konca-Swiata-Zestaw-Startowy-BUNDLE) - quickstart and some addons (character sheets etc.) for Dwory Końca Świata (warning, it's not English, [PL]!)
 - [Dungeon Crawl Classics](https://goodman-games.com/store/product/dcc-rpg-quick-start-rules-intro-adventures-pdf/) - quickstart and intro adventure for an awesome system that uses a reverse step die system, with imaginary dice such as d3, d5 or d7 (OGL) (note: the quickstart on drivethru is paid)
 - [EABA Lite](https://www.btrc.net/images/stories/freedownloads/eaba/btr6101_sample.pdf) - a free version of EABA, an awesome generic system (the full system does have their own license allowing supplements)
