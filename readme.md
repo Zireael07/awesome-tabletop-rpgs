@@ -223,6 +223,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Pathfinder 1,2/Starfinder](http://aonsrd.com/) - a d20 derivative that has a lot of content available - not just the core rulebooks, but pretty much all 1st party content (OGL)
 - [D&D 5e](https://www.dndbeyond.com/attachments/39j2li89/SRD5.1-CCBY4.0License.pdf) - 5e also has an SRD, too! (CC)
 - [Drama System](http://fossilbank.wikidot.com/local--files/source:chris-sakkas/DramaSystem%20SRD%20-%20Libre%20Edition.epub) - the system that powers Pelgrane Press Hillfolk (OGL or CC)
+- [Dungeoncaster SRD](https://www.drivethrurpg.com/product/428299/Dungeoncaster-SRD) - an OSR fantasy system (CC)
 - [Entropic Gaming System](https://www.drivethrurpg.com/product/287696/Entropic-Gaming-System-System-Reference-Document-EGS-20) - a step dice system which has separate dice for skills and attributes (OGL)
 - [Fajerbol SRD](http://fajerbol.pl/srd.html) - a d6-using system (CC) (warning, not English, [PL]!
 - [Fortune System](https://web.archive.org/web/20141014085941/http://www.funhavergames.com/fsrd/) - (archived page) a 2d6 system with wagers (CC)
@@ -230,6 +231,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Iridium System](https://www.drivethrurpg.com/product_info.php?products_id=29076) - an awesome system that has a Core Reference (OGL)
 - [Level Up System](https://www.levelup5e.com/system-reference-document) - SRD for an attempt to improve on 5e, aka LevelUp5e (OGL)
 - [Mark of the Odd](https://drive.google.com/drive/folders/1C3PgdyvIFf0YdDl-cXpsM_Fr_Vivw5Yj) - an SRD for the core system behind Into the Odd (the system itself also has a free edition)
+- [Mannerism SRD](https://www.mannerism.uk/mannerism-srd/) - an SRD for a system based on what is colloquially known as "tactical Rock-Paper-Scissors" (CC)
 - [Nuts and Bolts SRD](https://www.drivethrurpg.com/product/385021/Nuts--Bolts-SRD) - a simple system based on throwing any dice which have an equal number of success and failure faces (CC)
 - [OpenQuest](https://openquestrpg.com/srd/) - SRD for the open portion of the Mongoose Legend RPG (3e to be exact) (OGL) 
 - [Runic SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_runic/index.html) - looks to be an SRD of a Runequest adaptation (OGL)
