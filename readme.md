@@ -117,6 +117,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Pits and Perils](http://www.oldehouserules.com/black-paperclip-classics.html) - various Pits and Perils stuff that is hosted for free (unclear licensing)
 - [Planar Gaming System](http://sirjoeli.freeservers.com/index.html) - an awesome roll and keep system, no license specified
 - [Risus: The Anything RPG](https://www.risusrpg.com/rules) - an extremely simple d6 based system that spawned a number of home rules; their own community license
+- [Roll for Shoes](https://rollforshoes.com/) – a very simple d6 system where characters and their abilities are defined during the play
 - [Simple Universal System](https://drive.google.com/drive/folders/1s68EFmWQOPgj_tNj9CwabqMj4i2PKHCM) - looks to be a d20 evolution; the cards are awesome; no license specified
 - [Shadowdark Core](https://www.thearcanelibrary.com/pages/shadowdark) - quickstart halfway down the page; custom license for further content;
 - [Skyrealms of Jorune](https://archive.org/details/SkyrealmsofJoruneArchive/Jorune_1) - an archived RPG system from 1985, no license specified
