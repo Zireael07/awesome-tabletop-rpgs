@@ -114,8 +114,10 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Open Legend](https://openlegendrpg.com/) - a free system online with their own Open Legend Community License; unfortunately it's not clear what constitutes the OGC
 - [Quasar](http://www.conroyhome.net/alan/quasar/index.html) - a hard sci-fi system that tries to avoid violence, relies on a lot of tables. "You may copy them as much as you desire so long as they are not modified. You may base any game products, whether for profit or not, on the Quasar game without any royalties, licenses, or other payments."
 - [ParaŚwiaty](https://www.drivethrurpg.com/product/342595/ParaSwiaty) - an awesome generic supplement about parallel/alternative universes (warning, not English, [PL]!); no license specified
+- [Pits and Perils](http://www.oldehouserules.com/black-paperclip-classics.html) - various Pits and Perils stuff that is hosted for free (unclear licensing)
 - [Planar Gaming System](http://sirjoeli.freeservers.com/index.html) - an awesome roll and keep system, no license specified
 - [Risus: The Anything RPG](https://www.risusrpg.com/rules) - an extremely simple d6 based system that spawned a number of home rules; their own community license
+- [Roll for Shoes](https://rollforshoes.com/) – a very simple d6 system where characters and their abilities are defined during the play
 - [Simple Universal System](https://drive.google.com/drive/folders/1s68EFmWQOPgj_tNj9CwabqMj4i2PKHCM) - looks to be a d20 evolution; the cards are awesome; no license specified
 - [Shadowdark Core](https://www.thearcanelibrary.com/pages/shadowdark) - quickstart halfway down the page; custom license for further content;
 - [Skyrealms of Jorune](https://archive.org/details/SkyrealmsofJoruneArchive/Jorune_1) - an archived RPG system from 1985, no license specified
@@ -171,7 +173,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Burning Wheel](https://www.drivethrurpg.com/product/98542/Burning-Wheel-Gold-Hub-and-Spokes)
 - [Carbon Grey](https://www.drivethrurpg.com/product/367220/Carbon-Grey-RPG--Quickstart-Guide) - a derivative of Opend6 that is available for free, and the setting primer is PWYW
 - [Coriolis](https://www.drivethrurpg.com/product/204702/Coriolis-The-Third-Horizon--Quickstart) - an awesome Arabian-themed space setting that runs on d6 dicepools
-- [Dragonbane](https://www.dropbox.com/s/0m7zabjz8jvvynn/DB_Quickstart_220829.pdf?dl=0) - Free League's successor to Drakar och Demoner
+- [Dragonbane](https://www.dropbox.com/s/0m7zabjz8jvvynn/DB_Quickstart_220829.pdf?dl=0) - Free League's successor to Drakar och Demoner (now on DT too https://www.drivethrurpg.com/product/409397/Dragonbane-Quickstart)
 - [Dwory Końca Świata](https://www.drivethrurpg.com/product/320953/Dwory-Konca-Swiata-Zestaw-Startowy-BUNDLE) - quickstart and some addons (character sheets etc.) for Dwory Końca Świata (warning, it's not English, [PL]!)
 - [Dungeon Crawl Classics](https://goodman-games.com/store/product/dcc-rpg-quick-start-rules-intro-adventures-pdf/) - quickstart and intro adventure for an awesome system that uses a reverse step die system, with imaginary dice such as d3, d5 or d7 (OGL) (note: the quickstart on drivethru is paid)
 - [EABA Lite](https://www.btrc.net/images/stories/freedownloads/eaba/btr6101_sample.pdf) - a free version of EABA, an awesome generic system (the full system does have their own license allowing supplements)
@@ -222,6 +224,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Pathfinder 1,2/Starfinder](http://aonsrd.com/) - a d20 derivative that has a lot of content available - not just the core rulebooks, but pretty much all 1st party content (OGL)
 - [D&D 5e](https://www.dndbeyond.com/attachments/39j2li89/SRD5.1-CCBY4.0License.pdf) - 5e also has an SRD, too! (CC)
 - [Drama System](http://fossilbank.wikidot.com/local--files/source:chris-sakkas/DramaSystem%20SRD%20-%20Libre%20Edition.epub) - the system that powers Pelgrane Press Hillfolk (OGL or CC)
+- [Dungeoncaster SRD](https://www.drivethrurpg.com/product/428299/Dungeoncaster-SRD) - an OSR fantasy system (CC)
 - [Entropic Gaming System](https://www.drivethrurpg.com/product/287696/Entropic-Gaming-System-System-Reference-Document-EGS-20) - a step dice system which has separate dice for skills and attributes (OGL)
 - [Fajerbol SRD](http://fajerbol.pl/srd.html) - a d6-using system (CC) (warning, not English, [PL]!
 - [Fortune System](https://web.archive.org/web/20141014085941/http://www.funhavergames.com/fsrd/) - (archived page) a 2d6 system with wagers (CC)
@@ -229,6 +232,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Iridium System](https://www.drivethrurpg.com/product_info.php?products_id=29076) - an awesome system that has a Core Reference (OGL)
 - [Level Up System](https://www.levelup5e.com/system-reference-document) - SRD for an attempt to improve on 5e, aka LevelUp5e (OGL)
 - [Mark of the Odd](https://drive.google.com/drive/folders/1C3PgdyvIFf0YdDl-cXpsM_Fr_Vivw5Yj) - an SRD for the core system behind Into the Odd (the system itself also has a free edition)
+- [Mannerism SRD](https://www.mannerism.uk/mannerism-srd/) - an SRD for a system based on what is colloquially known as "tactical Rock-Paper-Scissors" (CC)
 - [Nuts and Bolts SRD](https://www.drivethrurpg.com/product/385021/Nuts--Bolts-SRD) - a simple system based on throwing any dice which have an equal number of success and failure faces (CC)
 - [OpenQuest](https://openquestrpg.com/srd/) - SRD for the open portion of the Mongoose Legend RPG (3e to be exact) (OGL) 
 - [Runic SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_runic/index.html) - looks to be an SRD of a Runequest adaptation (OGL)
