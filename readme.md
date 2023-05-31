@@ -128,6 +128,8 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [The Window](http://web.archive.org/web/20220110184433/http://www.mimgames.com/window/rules/) - awesome minimalist reverse step die system, "You can take this text and do with it as you wish (for your personal use, mind you.)"
 - [TriStat dX](https://www.drivethrurpg.com/product/368/TriStat-dX-Core-System-RolePlaying-Game) - a system that only uses three stats, AFAICT the author's current intention is for it to be freely distributable (GNU?)
 - [Totem](https://www.drivethrurpg.com/product/238272/Totem) - a small system that uses a bag of differently colored tokens for action resolution; no license specified
+- [VISORPGZ](https://ucmeumm.blogspot.com/p/visorpg-videogame-ish-solo-roleplaying.html) - Videogame-ish Solo Roleplaying Game; license
+is not named but seemingly everything is allowed except commercial use or illegal/immoral use.
 - [Witchcraft](https://web.archive.org/web/20070723055223/http://www.edenstudios.net/witchcraft/WitchcraftCorebook.zip) (archived) - a Unisystem based game straight from the publisher's page, no license specified!
 
 
