@@ -141,6 +141,7 @@ is not named but seemingly everything is allowed except commercial use or illega
 - [Delving Deeper](http://ddo.immersiveink.com/dd.html) - another OD&D retroclone with an SRD (OGL)
 - [Dark Dungeons](https://gurbintrollgames.wordpress.com/dark-dungeons/) - a Cyclopedia retroclone (OGL)
 - [Darker Dungeons](https://web.archive.org/web/20151227140257/http://www.gratisgames.webspace.virginmedia.com/extras.html) - (archived page) a mashup of the above with some Rolemaster-inspired stuff (OGL)
+- [Fantastic Medieval Campaigns](https://traversefantasy.itch.io/fmc) - a retroclone of the original 1974 Dungeons and Dragons (CC)
 - [For Gold & Glory](https://www.drivethrurpg.com/product/156530/For-Gold--Glory) - a retroclone of AD&D, available for free from several sources (OGL)
 - [Forerunner](https://drive.google.com/file/d/1BqXXlbX_W2yx3acyKT9SDvCo0hqjkffZ/view?usp=sharing) - a retroclone of 4e (OGL)
 - [Four Color](https://www.drivethrurpg.com/product/50837/Four-Color-System-Core-Rules) - FASERIP retroclone (public domain)
