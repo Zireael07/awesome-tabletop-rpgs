@@ -85,6 +85,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Turbo Dice](https://www.drivethrurpg.com/product/115280/Turbo-Dice) - an awesome system that uses various kinds of dice (CC)
 - [Tzi](https://tzi.technically.fun) - an awesome system using poker dice (MIT)
 - [Ugis](https://www.drivethrurpg.com/product/371431/UGIS-Rpg) - a mix of Risus and Microlite d20, with a bit of Fate (CC)
+- [VitalRPG](https://www.vitalrpg.com/) - a lightweight versatile d6 system (CC)
 - [Wushu](http://danielbayn.com/wushu/) - an awesome cinematic game that uses d6 pools (CC)
 - [YAGS](https://www.notasnark.net/yags/index) Yet Another Game System - a generic system (GNU)
 - [x6](https://www.x6system.net/download/x6core2.pdf) - d6 based system (CC)
