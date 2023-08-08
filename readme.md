@@ -53,6 +53,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [HexGen](https://www.drivethrurpg.com/product/383947/HexGen-RPG-Basic-Rules) - a modern/scifi/cyberpunk awesome system where skills range from 3d6 to 10d6 with tactical combat (CC)
 - [Heroes of Adventure](https://nameless-designer.itch.io/heroes-of-adventure) - alternative OSR with an entirely original system (CC)
 - [In the Dark of a Fallen Empire](https://jkent2585.itch.io/in-the-dark-of-a-fallen-empire) - an awesome derivative of In the Light of a Ghost Star (CC)
+- [Into the Dungeon: Revived](https://vladar4.github.io/itdr/) - a lightweight fantasy RPG designed for a streamlined gameplay, heavily-modified descendant of Into the Odd. (CC)
 - [Ironsworn](https://www.ironswornrpg.com/) - an awesome solo system (CC)
 - [JAGS](https://www.jagsrpg.com/) - (not) Just Another Gaming System (has a FDL licensed version according to the website)
 - [Jovian Despair](https://img.4plebs.org/boards/tg/image/1418/65/1418658840108.pdf) - an awesome d6 minisystem (CC)
