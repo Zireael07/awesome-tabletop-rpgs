@@ -99,6 +99,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Adventurers!](https://www.drivethrurpg.com/product/120987/Adventurers-Revised-2Pages-Edition) - an awesome 2d6 system that is free; no license specified
 - [Builders' Guild](https://www.drivethrurpg.com/product/381094/Builders-Guild) - an awesome d12 based system with a crafting/invention focus; PWYW; no license specified
 - [The Contract](https://www.thecontractrpg.com/info/how-to-play/) - an awesome d10 dice pool system that is entirely online; no license specified
+- [Cortex Lite](https://xineink.itch.io/lite) - a lite version of Cortex Prime released under Cortex's community license
 - [Dark Coast](http://hjemmesider.diku.dk/~torbenm/DarkCoast/Dark.pdf) - an awesome small system by the author of Troll, a dice probability calculator
 - [Dominion Rules](http://www.dominionrules.org/) - Fantasy and historical based on d12; released under DRL (Dominion Rules License)
 - [Dungeons the Dragoning 40k 7th](https://archive.org/details/DungeonsTheDragoning1.6) - an infamous mashup of D&D, Warhammer, Exalted and some others; no licensing specified
