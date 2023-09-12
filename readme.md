@@ -41,6 +41,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [FATE](https://www.faterpg.com/) - a rules-lite system that has spawned a ton of hacks. Has an SRD (OGL or CC)
   - [Polyhedral FATE](https://www.dropbox.com/s/5hl8z4kjvbhrbxf/Fate%20Polyhedral%20Edition.pdf?dl=0) - the most original of all FATE hacks (CC)
   - [Destiny Dice](https://yarukizero.files.wordpress.com/2013/07/destiny-dice.pdf) - custom dice designed to be used with FATE, but adaptable to other systems too (CC)
+- [FIST](https://claymorerpgs.itch.io/fist) - a PbtA derivative via World of Dungeons, inspired by Metal Gear Solid and A-Team. The layout files themselves are open source too (CC)
 - [FivexFive](https://www.drivethrurpg.com/browse/pub/5581/Dreams-and-Dragons) - a system where you roll two d5 and multiply the results
 - [Forge Engine Universal Roleplaying System](https://www.drivethrurpg.com/product/235070/Forge-Engine--Universal-RolePlaying-System) - an awesome universal system that uses various dice (CC)
 - [Freeform Roleplaying](https://jessecoder.wixsite.com/freeformroleplaying) - A dirt-simple roleplaying game system for the curious noob (CC BY-SA 4.0)
