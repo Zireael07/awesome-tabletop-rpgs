@@ -30,6 +30,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Aurora Engine](https://lynxthoughts.com/aurora/) - a d6 dicepool system that uses half dice (public domain)
 - [BIND](https://gitlab.com/bindrpg/core) - 2d6 vs TN 7 system which is literally open-source (Gitlab link) (GPL)
 - [Bivius](https://lostpangolin.files.wordpress.com/2016/10/bivius-solo-rpg1.pdf) - simple awesome solo game (CC)
+- [Blade & Blunt](https://blade-blunt.itch.io/blade-blunt-ttrpg) - a 2d6 lite OSR style skill-focused system (CC) 
 - [Cairn](https://cairnrpg.com/cairn-srd/) - itself a descendant of Knave and Into the Odd, it also has its own SRD (CC)
 - [Chronia](https://www.chroniarpg.com/download) - an awesome technofantasy game based on d6 pools (CC)
 - [Commonsense](https://www.drivethrurpg.com/product/359829/Commonsense-A-RolePlaying-Game-System) - an awesome solo oracle, not to mention a list of all the simple ways to achieve weird dice (CC)
