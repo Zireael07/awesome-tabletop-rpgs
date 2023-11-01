@@ -159,6 +159,7 @@ is not named but seemingly everything is allowed except commercial use or illega
 - [Legends of Emerald Republic](https://agonizing-crimson.itch.io/legends-of-the-emerald-republic-ashcan-edition) - effectively a retroclone of L5R - uses their own resolution system, a pool of d6 and d10 (CC)
 - [Lightmaster](https://www.drivethrurpg.com/product/279034/Lightmaster-Core-Rulebook) - a retroclone of Rolemaster (OGL)
 - [Low Fantasy Gaming](https://lowfantasygaming.com/freepdf/) - has a free version 
+- [Old School Hack](http://web.archive.org/web/20130801010253/http://www.oldschoolhack.net/osh-docs/OldSchoolHack_v1beta.pdf) - a CC licensed retroclone (CC)
 - [Orcus](https://github.com/Sanglorian/orcus) - 4e retroclone (OGL)
 - [Organic Rules Components (ORC)](https://vajraenterprises.com/new/?p=132) - a system that while not a retroclone looks and feels like many old-school systems (CC)
 - [OSE](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) - Old School Essentials SRD (OGL)
