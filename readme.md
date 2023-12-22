@@ -140,6 +140,7 @@ is not named but seemingly everything is allowed except commercial use or illega
 
 ### Retroclones
 
+- [Advanced FASERIP](https://preview.drivethrurpg.com/en/product/462478/advanced-faserip) - a retroclone of the Marvel FASERIP system, wholly open content (OGL)
 - [Basic Fantasy](https://www.basicfantasy.org/) - an D&D retroclone available for free
 - [Cepheus Engine](https://www.drivethrurpg.com/product/186894/Cepheus-Engine-System-Reference-Document) - a Traveller retroclone that has a SRD (linked) (OGL)
 - [Codename Spandex](https://gurbintrollgames.wordpress.com/codename-spandex/) - a retroclone of Golden Heroes (public domain)
