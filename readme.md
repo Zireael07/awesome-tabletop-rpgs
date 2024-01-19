@@ -165,6 +165,7 @@ is not named but seemingly everything is allowed except commercial use or illega
 - [Organic Rules Components (ORC)](https://vajraenterprises.com/new/?p=132) - a system that while not a retroclone looks and feels like many old-school systems (CC)
 - [OSE](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) - Old School Essentials SRD (OGL)
 - [OSRIC](http://www.knights-n-knaves.com/osric/) also available on DriveThru for free (OGL)
+- [Rites of Transmutation](https://preview.drivethrurpg.com/en/product/451941/rites-of-transmutation) - a retroclone of AD&D (CC)
 - [Spellcraft & Swordplay](https://www.drivethrurpg.com/product/94115/Spellcraft--Swordplay-Basic-Game) - a retroclone of OD&D using only d6 (OGL)
 - [The Big Brown Book](https://app.box.com/s/3f919711f32fb357f55e) - another D&D retroclone using only d6, hosted on Box by Fossil Bank
 - [The Wasteland Games Archive](https://web.archive.org/web/20100427185908/http://www.iworg.com/waste/) - (archived) all the out of print products Wasteland Games made available for free
