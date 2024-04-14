@@ -44,8 +44,10 @@ All the systems listed in this section are under open licenses, i.e. can be remi
   - [Destiny Dice](https://yarukizero.files.wordpress.com/2013/07/destiny-dice.pdf) - custom dice designed to be used with FATE, but adaptable to other systems too (CC)
 - [FIST](https://claymorerpgs.itch.io/fist) - a PbtA derivative via World of Dungeons, inspired by Metal Gear Solid and A-Team. The layout files themselves are open source too (CC)
 - [FivexFive](https://www.drivethrurpg.com/browse/pub/5581/Dreams-and-Dragons) - a system where you roll two d5 and multiply the results
+- [Flexpiel](https://squidhead-games.itch.io/flexpiel) - a tiny genre neutral game (CC)
 - [Forge Engine Universal Roleplaying System](https://www.drivethrurpg.com/product/235070/Forge-Engine--Universal-RolePlaying-System) - an awesome universal system that uses various dice (CC)
 - [Freeform Roleplaying](https://jessecoder.wixsite.com/freeformroleplaying) - A dirt-simple roleplaying game system for the curious noob (CC BY-SA 4.0)
+- [Fudge Lite](http://www.fudgelite.com) - a minimal version of the old predecessor to FATE (OGL)
 - [Freeform Universal](https://www.perilplanet.com/freeform-universal/) - the third big freeform system that has also spawned some derivatives. link to beta for v2 down the page, too (CC)
 - [FU 2 beta](https://www.perilplanet.com/wp-content/uploads/2021/02/FU2-Beta-V1.1-Oct-2020.pdf) - direct link to Freeform Universal 2 beta mentioned above
 - [G.A.M.E](http://www.1km1kt.net/wp-content/uploads/2011/02/GAMEv1-1.pdf) - step dice system that uses separate dice from heritage, trade, stats (alternate [link](https://boardgamegeek.com/filepage/185188/gme-system-troy-m-costisick) requires boardgamegeek login to download) (CC)
@@ -166,6 +168,7 @@ is not named but seemingly everything is allowed except commercial use or illega
 - [OSE](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) - Old School Essentials SRD (OGL)
 - [OSRIC](http://www.knights-n-knaves.com/osric/) also available on DriveThru for free (OGL)
 - [Rites of Transmutation](https://preview.drivethrurpg.com/en/product/451941/rites-of-transmutation) - a retroclone of AD&D (CC)
+- [Searchers of the Unknown](https://ruleslightrpgs.com/community/viewtopic.php?t=231) - a minimalist retroclone ("not for profit believed to be within fair use" so take with a grain of salt) that has spawned a lot of hacks
 - [Spellcraft & Swordplay](https://www.drivethrurpg.com/product/94115/Spellcraft--Swordplay-Basic-Game) - a retroclone of OD&D using only d6 (OGL)
 - [The Big Brown Book](https://app.box.com/s/3f919711f32fb357f55e) - another D&D retroclone using only d6, hosted on Box by Fossil Bank
 - [The Wasteland Games Archive](https://web.archive.org/web/20100427185908/http://www.iworg.com/waste/) - (archived) all the out of print products Wasteland Games made available for free
