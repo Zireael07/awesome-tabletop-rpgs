@@ -108,6 +108,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Dark Coast](http://hjemmesider.diku.dk/~torbenm/DarkCoast/Dark.pdf) - an awesome small system by the author of Troll, a dice probability calculator
 - [Dominion Rules](http://www.dominionrules.org/) - Fantasy and historical based on d12; released under DRL (Dominion Rules License)
 - [Dungeons the Dragoning 40k 7th](https://archive.org/details/DungeonsTheDragoning1.6) - an infamous mashup of D&D, Warhammer, Exalted and some others; no licensing specified
+- [Empyre](https://chrisempyre.itch.io/empyre) - a fantasy with guns system, no license specified
 - [Farhome](https://github.com/scrabbletank/farhome-rules) - an awesome free system using custom dice (all d6); unclear licensing
 - [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic, presented as a wiki site; no licensing specified
 - [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
@@ -186,6 +187,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [BOLT RPG](https://ajeypandey.itch.io/bolt-rpg-engine) - a system that uses one die for task resolution and another for complications (CC)
 - [Burning Wheel](https://www.drivethrurpg.com/product/98542/Burning-Wheel-Gold-Hub-and-Spokes)
 - [Carbon Grey](https://www.drivethrurpg.com/product/367220/Carbon-Grey-RPG--Quickstart-Guide) - a derivative of Opend6 that is available for free, and the setting primer is PWYW
+- [Contact](https://www.uhrwerk-verlag.de/wp-content/uploads/2016/10/quickstart_contact.pdf) - a system that evokes X-COM so uses d100 for everything
 - [Coriolis](https://www.drivethrurpg.com/product/204702/Coriolis-The-Third-Horizon--Quickstart) - an awesome Arabian-themed space setting that runs on d6 dicepools
 - [Dragonbane](https://www.dropbox.com/s/0m7zabjz8jvvynn/DB_Quickstart_220829.pdf?dl=0) - Free League's successor to Drakar och Demoner (now on DT too https://www.drivethrurpg.com/product/409397/Dragonbane-Quickstart)
 - [Dwory Końca Świata](https://www.drivethrurpg.com/product/320953/Dwory-Konca-Swiata-Zestaw-Startowy-BUNDLE) - quickstart and some addons (character sheets etc.) for Dwory Końca Świata (warning, it's not English, [PL]!)
@@ -194,6 +196,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Electric Bastionland](https://www.drivethrurpg.com/product/294656/Electric-Bastionland-Free-Edition) - an awesome system, an evolution of Into the Odd
 - [ELEMENTAL Discovery Guide](https://www.drivethrurpg.com/product/242202/ELEMENTAL-Discovery-Guide) - a quickstart for ELEMENTAL, a d6 system that has quite a lot of free adventures
 - [Elite Dangerous RPG](https://www.modiphius.net/products/elite-dangerous-rpg-the-worst-intentions-free-quickstart) - an awesome system based on Elite: Dangerous, the space game
+- [Entromancy](https://www.drivethrurpg.com/en/product/300463/entromancy-a-cyberpunk-fantasy-rpg-quick-start-guide) - a 5e compatible fantasy/cyberpunk hybrid
 - [First Five Fantasy Roleplaying Player's Guide](https://www.drivethrurpg.com/product/257346/First-Five-Fantasy-Roleplaying-Players-Guide) - a retroclone of OD&D, this does not contain monsters or treasure
 - [Gangs of Titan City](https://www.drivethrurpg.com/product/399494/Gangs-of-Titan-City--Quickstart) - looks like an urban reskin of Blades in the Dark, with a custom ruleset
 - [GURPS Lite](http://www.sjgames.com/gurps/lite/) - a free starter for GURPS
