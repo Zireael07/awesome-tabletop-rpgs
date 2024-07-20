@@ -279,6 +279,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 
 - [Awesome Search](https://awesomelists.top/): search all awesome lists
 - [Awesome Tabletop RPG](https://github.com/hack-and-slash/awesome-tabletop-rpg)
+- [Awesome Ironsworn](https://github.com/billiam/awesome-ironsworn)
 - [Awesome Shadowrun](https://github.com/oherrala/awesome-shadowrun)
 
 
