@@ -39,6 +39,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [d6 Pool](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest) - what it says on the tin (CC)
 - [Demon Hunters and a Comedy of Terrors Beta](https://www.drivethrurpg.com/product/156564/Demon-Hunters-A-Comedy-of-Terrors-Gen-Con-Beta) - a FATE derivative that uses polyhedral dice (CC)
 - [Eclipse Phase](https://robboyle.wordpress.com/eclipse-phase-pdfs/) - a d100 sci-fi system (CC)
+- [Everyone is John](https://rtwolf.github.io/Everyone-is-John/) - a competitive game where players act as voices in John's head, fighting to gain control over him (CC)
 - [FATE](https://www.faterpg.com/) - a rules-lite system that has spawned a ton of hacks. Has an SRD (OGL or CC)
   - [Polyhedral FATE](https://www.dropbox.com/s/5hl8z4kjvbhrbxf/Fate%20Polyhedral%20Edition.pdf?dl=0) - the most original of all FATE hacks (CC)
   - [Destiny Dice](https://yarukizero.files.wordpress.com/2013/07/destiny-dice.pdf) - custom dice designed to be used with FATE, but adaptable to other systems too (CC)
@@ -227,6 +228,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [2d20 SRD](https://drive.google.com/drive/folders/1tEim08EMnggRuzClD8Xq5a4DlfmLm7mA) - an SRD for 2d20 line of Modiphius games (custom license, see https://www.modiphius.net/pages/2d20)
 - [ACKS SRD](https://github.com/jhhoffmann/ACKS_SRD) Adventurer Conqueror King System SRD (OGL)
 - [Action! System](https://web.archive.org/web/20060318013414/http://goldrushgames.com/start/modules.php?op=modload&name=Downloads&file=index&req=viewsdownload&sid=5) - an archived copy of the publisher's downloads section, YMMV when trying to download (some links are 404) / [online version](https://www.darkshire.net/jhkim/rpg/srd/srd_action/index.html) converted from the originals (OGL)
+- [Archives of Nethys](https://2e.aonprd.com/) - free compendium for Pathfinder 2nd edition
 - [ARC](https://arc-rpg.com/arcanum) - a doom tabletop system that also has a quickstart
 - [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel) - has an online SRD (CC)
 - [Breathless](https://fari-rpgs.itch.io/breathless-srd) - open SRD of the survival horror game of the same name (CC)
