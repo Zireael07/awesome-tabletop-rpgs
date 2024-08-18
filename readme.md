@@ -38,6 +38,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - :moneybag: [Cyberrats](https://alrine.itch.io/cyberrats) - XCOM-inspired sci-fi game of alien invasions, interns who are giant rats, and the megacorps who employ them. Running on LUMEN (CC)
 - [d6 Pool](https://www.drivethrurpg.com/product/134520/D6Pool-Modern-Roleplaying?src=newest) - what it says on the tin (CC)
 - [Demon Hunters and a Comedy of Terrors Beta](https://www.drivethrurpg.com/product/156564/Demon-Hunters-A-Comedy-of-Terrors-Gen-Con-Beta) - a FATE derivative that uses polyhedral dice (CC)
+- [Doronai Nui](https://www.redstargames.org/doronai-nui) - a d20 based Bionicle tabletop system (CC)
 - [Eclipse Phase](https://robboyle.wordpress.com/eclipse-phase-pdfs/) - a d100 sci-fi system (CC)
 - [FATE](https://www.faterpg.com/) - a rules-lite system that has spawned a ton of hacks. Has an SRD (OGL or CC)
   - [Polyhedral FATE](https://www.dropbox.com/s/5hl8z4kjvbhrbxf/Fate%20Polyhedral%20Edition.pdf?dl=0) - the most original of all FATE hacks (CC)
