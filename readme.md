@@ -56,6 +56,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [GIST](https://zeruhur.itch.io/gist) - an awesome minimal 2d6 system (CC)
 - [Ghost Lines](http://www.onesevendesign.com/ghostlines/) - awesome minimal Apocalypse World/PbtA derivative (CC)
 - :moneybag: [Gratitude: A Horror Game](https://alrine.itch.io/gratitude-a-horror-game) - a mix of cosmic horror without cthulhu and body horror. Praised for its setting. A free [creator's kit](https://alrine.itch.io/gratitude-creators-kit) is also available. (CC
+- [Grimwild](https://www.drivethrurpg.com/pl/product/507201/grimwild-free-edition) - D&D meets Blades in the Dark (CC)
 - [HexGen](https://www.drivethrurpg.com/product/383947/HexGen-RPG-Basic-Rules) - a modern/scifi/cyberpunk awesome system where skills range from 3d6 to 10d6 with tactical combat (CC)
 - [Heroes of Adventure](https://nameless-designer.itch.io/heroes-of-adventure) - alternative OSR with an entirely original system (CC)
 - [In the Dark of a Fallen Empire](https://jkent2585.itch.io/in-the-dark-of-a-fallen-empire) - an awesome derivative of In the Light of a Ghost Star (CC)
