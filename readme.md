@@ -28,7 +28,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [24xx](https://jasontocci.itch.io/24xx) - a small system that has spawned several hacks (CC)
 - [6d6](https://6d6rpg.com/reviews/) - an awesome d6 system. their wiki, unfortunately, seems to be down (CC)
 - [Aurora Engine](https://lynxthoughts.com/aurora/) - a d6 dicepool system that uses half dice (public domain)
-- [BIND](https://gitlab.com/bindrpg/core) - 2d6 vs TN 7 system which is literally open-source (Gitlab link) (GPL)
+- [BIND](https://bindrpg.gitlab.io/) - 2d6 vs TN 7 system which is literally open-source (GPL)
 - [Bivius](https://lostpangolin.files.wordpress.com/2016/10/bivius-solo-rpg1.pdf) - simple awesome solo game (CC)
 - [Blade & Blunt](https://blade-blunt.itch.io/blade-blunt-ttrpg) - a 2d6 lite OSR style skill-focused system (CC) 
 - [Cairn](https://cairnrpg.com/cairn-srd/) - itself a descendant of Knave and Into the Odd, it also has its own SRD (CC)
