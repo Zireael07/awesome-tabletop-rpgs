@@ -25,7 +25,7 @@ Emoji Symbols used in this list
 All the systems listed in this section are under open licenses, i.e. can be remixed, and often rehosted.
 
 - [1w6](https://www.1w6.org/english) - a system based on d6 (GPL)
-[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [24xx](https://jasontocci.itch.io/24xx) - a small system that has spawned several hacks (CC)
 - [6d6](https://6d6rpg.com/reviews/) - an awesome d6 system. their wiki, unfortunately, seems to be down (CC)
 - [Aurora Engine](https://lynxthoughts.com/aurora/) - a d6 dicepool system that uses half dice (public domain)
