@@ -136,6 +136,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Skyrealms of Jorune](https://archive.org/details/SkyrealmsofJoruneArchive/Jorune_1) - an archived RPG system from 1985, no license specified
 - [Spiral Dice](https://www.spiraldice.com/sapio) - an awesome system using custom dice, available for free, no license specified
 - [Star Squad](https://drive.google.com/drive/folders/1-d25Rw3-ZwR72waxUat-CS6tQNvbVtiL) - awesome looking freebie worth looking at, no license specified
+- [SWURPG](https://swurpg.com/) - a free, browser-based Star Wars d20 tabletop RPG blending Saga Edition depth with 5e ease; includes online character, starship, and map builders. (free to play, no formal license)
 - [Talespinner](https://talespinner.eu/overview) - awesome online d10 system; no license specified
 - [Trespasser RPG](https://tundalus.itch.io/trespasser) - fantasy tactical RPG that uses d20 for checks and a potency die (increasing with level) for attacks; no license specified
 - [The Window](http://web.archive.org/web/20220110184433/http://www.mimgames.com/window/rules/) - awesome minimalist reverse step die system, "You can take this text and do with it as you wish (for your personal use, mind you.)"
