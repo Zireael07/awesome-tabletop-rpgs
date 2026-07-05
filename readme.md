@@ -256,6 +256,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Mark of the Odd](https://drive.google.com/drive/folders/1C3PgdyvIFf0YdDl-cXpsM_Fr_Vivw5Yj) - an SRD for the core system behind Into the Odd (the system itself also has a free edition)
 - [Mannerism SRD](https://www.mannerism.uk/mannerism-srd/) - an SRD for a system based on what is colloquially known as "tactical Rock-Paper-Scissors" (CC)
 - [Nuts and Bolts SRD](https://www.drivethrurpg.com/product/385021/Nuts--Bolts-SRD) - a simple system based on throwing any dice which have an equal number of success and failure faces (CC)
+- [OmnisGM Rules](https://rules.omnisgm.com) - a fast static reader collecting several open SRDs (D&D 5.2.1/5.1, Daggerheart, BRP) as clean HTML, with public [Markdown sources](https://github.com/OmnisGM-App/OmnisGM-Rules) and a complete Russian translation (CC BY 4.0 / DPCGL / BRP OGL)
 - [OpenQuest](https://openquestrpg.com/srd/) - SRD for the open portion of the Mongoose Legend RPG (3e to be exact) (OGL) 
 - [Runic SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_runic/index.html) - looks to be an SRD of a Runequest adaptation (OGL)
 - [D100II SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_d100ii/D100II_SRD_1.pdf) - another Runequest-like SRD (OGL)
