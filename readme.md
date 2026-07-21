@@ -114,10 +114,11 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Dungeons the Dragoning 40k 7th](https://archive.org/details/DungeonsTheDragoning1.6) - an infamous mashup of D&D, Warhammer, Exalted and some others; no licensing specified
 - [Empyre](https://chrisempyre.itch.io/empyre) - a fantasy with guns system, no license specified
 - [Farhome](https://github.com/scrabbletank/farhome-rules) - an awesome free system using custom dice (all d6); unclear licensing
+- [Follow](https://arsludi.lamemage.com/index.php/3881/download-follow-a-new-fellowship-for-free/) - a free GM-less game, no licensing specified
 - [FreeRPG](https://freerpgs.org/system/) - an interesting system that has four variants for the core mechanic, presented as a wiki site; no licensing specified
 - [FUDGE](http://www.fudgerpg.com/fudge/fudge.pdf) - the other rules-lite system that has a ton of hacks (their own license, but it's pretty much "credit the original author")
 - [Fuzion](http://rtalsoriangames.com/wp-content/uploads/2013/01/fuzion1.pdf) - the system that evolved from the one CP 2020 was based on. warnings, it's pretty much an attempt to marry CP with Hero System that... didn't really work. If you want an OGL version, look at Action! below
-- [Idee Fixe](http://ideefixe-rpg.pl) - an awesome d10 dice pool system (warning, it's not English, [PL]!)
+- [Idee Fixe](https://web.archive.org/web/20251107054625/http://ideefixe-rpg.pl/) - an awesome d10 dice pool system (warning, it's not English, [PL]!)
 - [Iron & Aether](https://iandarpg.com/Rulebook/Home/RulesHome.html) - awesome free online system, licensing unclear
 - [LUMEN](https://gilarpgs.itch.io/lumen) - explicitly free to use, but no formal license applied
 - [Knights of the Black Lily](http://www.knightsoftheblacklily.com/downloads/) - an awesome d100 system with degrees of success; "making the full rules available is definitely planned for the future[...] in the meantime, [...] please send us an e-mail"
@@ -220,6 +221,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Perstoria](https://www.drivethrurpg.com/product/363032/Perstoria-Free-Sample) - a 2d6 based system
 - [Pip System](https://www.drivethrurpg.com/product/217218/Pip-System-QuickStart) - another Opend6 derivative that went in a different direction
 - [Shadow of the Demon Lord](https://www.drivethrurpg.com/product/156576/Victims-of-the-Demon-Lord-Starter-Guide) - a d20 derivative that has some awesome ideas (e.g. boons and banes)
+- [Spire the City Must Fall](https://rowanrookanddecard.itch.io/spire-quickstart) - a quickstart for an interesting system
 - [The House of Blue Men](https://www.drivethrurpg.com/product_info.php?products_id=83076) - quickstart and intro adventure for Sorcery and Superscience, an awesome system that uses a "floating dice" system (basically step dice)
 - [Stars without Number](https://www.drivethrurpg.com/product/86467/Stars-Without-Number-Original-Free-Edition) - has a Traveller feel. Has a paid version, too, with minimal differences.
 - [Worlds without Number](https://www.drivethrurpg.com/product/348809) - vastly expanded compared to Stars. Has a free and paid version, with minimal differences.
@@ -280,6 +282,12 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [Carta SRD](https://peachgardengames.itch.io/carta-srd) - a solitaire-based game
 - [Freelancer's Guide](https://pagodagamesllc.itch.io/freelancers-guide) - a sci-fi card based game
 - [Haunted Houses Solitaire](http://www.1km1kt.net/rpg/Haunted_Houses_Solitaire_RPG.pdf) - an old freebie with unclear licensing; uses a deck of playing cards to emulate dice
+
+
+### Other randomizers
+- [Diedream](https://alfredvalley.itch.io/diedream) - add two two digit numbers, then add their digits together; freebie with unclear licensing
+- [Sherpa](https://www.panix.com/~sos/rpg/sherpa.html) - uses a watch
+
 
 
 ## Related Awesome Lists
