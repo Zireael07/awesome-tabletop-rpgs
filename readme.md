@@ -264,6 +264,7 @@ Many systems that are otherwise paid have free quickstarts. NOTE: unless explici
 - [D100II SRD](https://www.darkshire.net/jhkim/rpg/srd/srd_d100ii/D100II_SRD_1.pdf) - another Runequest-like SRD (OGL)
 - [QuestWorlds](https://questworlds.chaosium.com/) - SRD for a modern version of HeroQuest (a d20 system with "masteries") (OGL)
 - [Push](https://fari.games/en/srds/cezar-capacle/push) - simple 2d6 system, has a free SRD (CC)
+- [Stonetop Web Edition](https://stonetop-wiki.github.io/) - the full text of both Stonetop books (hearth-fantasy PbtA, a Dungeon World descendant) as a free, searchable, cross-linked site with dice rollers and fillable playbooks, in English and 20 other languages :free: (CC)
 - [WaRP](http://www.atlas-games.com/pdf_storage/WaRPSystemPackage.zip) - the system used in Over the Edge (OGL)
 - [WOIN](https://sites.google.com/site/woinrrd/home) - a dice pool based game where the size of the pool is determined by several factors; has optional rules converting to other resolution systems (OGL)
 - [vsM Engine](https://www.dropbox.com/s/2bj4ysgrmen8csh/vsMEngine.zip?dl=0) - if you played vs Monsters, vs Outlaws or any other in the series, this is the basic SRD. all original sites are down so the link is to somebody's copy on Dropbox (OGL)
