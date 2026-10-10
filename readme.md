@@ -145,6 +145,7 @@ These games have unclear licensing, no licensing specified (which means you can'
 - [Totem](https://www.drivethrurpg.com/product/238272/Totem) - a small system that uses a bag of differently colored tokens for action resolution; no license specified
 - [VISORPGZ](https://ucmeumm.blogspot.com/p/visorpg-videogame-ish-solo-roleplaying.html) - Videogame-ish Solo Roleplaying Game; license
 is not named but seemingly everything is allowed except commercial use or illegal/immoral use.
+- [Westwild](https://wordblocklabs.com/westwild) - a free spaghetti-western tabletop RPG, playable on paper with printable rules (an optional free browser tabletop is included as a convenience); custom license, free for home play and streaming, commercial use by license
 - [Witchcraft](https://web.archive.org/web/20070723055223/http://www.edenstudios.net/witchcraft/WitchcraftCorebook.zip) (archived) - a Unisystem based game straight from the publisher's page, no license specified!
 
 
