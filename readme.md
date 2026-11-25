@@ -84,6 +84,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Spiral Dice](https://spiraldice.itch.io/sdhg) - an awesome system using custom dice (CC)
 - [Sufficiently Advanced](http://www.1km1kt.net/rpg/sufficiently-advanced) - an awesome far future system that is released under CC according to a comment on the linked page (CC)
 - [So1um](https://github.com/brunobord/so1um) Role Playing Game designed & written by Matt Jackson. Can be played solo. (CC)
+- [Swords & Magic](https://swordsandmagic.it) - a d20 fantasy system with no classes or levels, where everything is a skill, including spells; rules free online (CC)
 - [Talislanta](http://talislanta.com/talislanta-library) - an awesome d20 system that has nothing to do with "the world's most popular rpg" (CC)
 - [Tango](https://sites.google.com/site/tangorpgsystem/home) - awesome step dice system where the GM also rolls dice - no static TNs here (CC)
 - [Ten Thousand Worlds](https://www.tenthousandworlds.org/) - an awesome system if you need a height/weight/speed logarithmic table (CC)
